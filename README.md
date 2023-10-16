@@ -3,6 +3,22 @@
 A collection of ~~circular~~ square SVG country flags, based on
 [circle-flags][circle-flags], by HatScripts.
 
+## Why square? What’s different?
+
+It’s a [popular request][circle-flags-issues] for the original circle-flags
+project to offer square variants, but in a lot of cases the change to the
+original flag design is non-trivial. For simple designs like tricolours you can
+simply remove the mask, but a lot of the original flags carefully position
+elements to appear within the silhouette of a circle; once that circle mask is
+removed, the elements seem misplaced or concentrated around the centre of the
+flag.
+
+So, I’ve taken the original artwork and reworked them to suit a square shape
+better. I’ve also taken the opportunity to make a few tweaks here and there to
+colours (adding a new middle dark yellow that has better contrast against light
+backgrounds), as well as building the whole thing out in Figma using components
+(I’ll share this on the community page soon).
+
 ## Usage
 
 ```text
@@ -101,6 +117,7 @@ issue and I’ll try and amend the original Figma file.
 This project is released under the [MIT license](LICENSE.md).
 
 [circle-flags]: https://github.com/HatScripts/circle-flags
+[circle-flags-issues]: https://github.com/HatScripts/circle-flags/issues?q=is%3Aissue+is%3Aopen+square
 [iso-3166-1]: https://www.iso.org/obp/ui/#search/code/
 [gallery]: https://kapowaz.github.io/square-flags/gallery
 [react]: https://reactjs.org
