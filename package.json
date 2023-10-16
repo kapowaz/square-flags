@@ -1,0 +1,35 @@
+{
+  "name": "square-flags",
+  "version": "1.0.0",
+  "description": "A collection of square SVG country flags.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapowaz/square-flags.git"
+  },
+  "keywords": [
+    "svg",
+    "country-flags",
+    "country",
+    "icons",
+    "square",
+    "minimal",
+    "design",
+    "flags",
+    "svg-icons",
+    "svgo",
+    "minimalist",
+    "minimalistic",
+    "countries",
+    "square-flags",
+    "languages",
+    "states",
+    "squares",
+    "icon-pack"
+  ],
+  "contributors": ["Ben Darlow <ben@kapowaz.net>"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kapowaz/square-flags/issues"
+  },
+  "homepage": "https://github.com/kapowaz/square-flags#readme"
+}
