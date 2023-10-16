@@ -83,7 +83,6 @@
   <div><img src="flags/dm.svg" width="96"/><p>Dominica (<code>dm</code>)</p></div>
   <div><img src="flags/do.svg" width="96"/><p>Dominican Republic (<code>do</code>)</p></div>
   <div><img src="flags/dz.svg" width="96"/><p>Algeria (<code>dz</code>)</p></div>
-  <div><img src="flags/earth.svg" width="96"/><p>Earth</p></div>
   <div><img src="flags/east_african_federation.svg" width="96"/><p>East African Federation</p></div>
   <div><img src="flags/easter_island.svg" width="96"/><p>Easter Island</p></div>
   <div><img src="flags/ec.svg" width="96"/><p>Ecuador (<code>ec</code>)</p></div>
@@ -233,7 +232,6 @@
   <div><img src="flags/ma.svg" width="96"/><p>Morocco (<code>ma</code>)</p></div>
   <div><img src="flags/malayali.svg" width="96"/><p>Malayali</p></div>
   <div><img src="flags/maori.svg" width="96"/><p>Maori</p></div>
-  <div><img src="flags/mars.svg" width="96"/><p>Mars (<code>ma</code>)</p></div>
   <div><img src="flags/mc.svg" width="96"/><p>Monaco (<code>mc</code>)</p></div>
   <div><img src="flags/md.svg" width="96"/><p>Moldova (<code>md</code>)</p></div>
   <div><img src="flags/me.svg" width="96"/><p>Montenegro (<code>me</code>)</p></div>
@@ -258,7 +256,6 @@
   <div><img src="flags/mz.svg" width="96"/><p>Mozambique (<code>mz</code>)</p></div>
   <div><img src="flags/na.svg" width="96"/><p>Namibia (<code>na</code>)</p></div>
   <div><img src="flags/nc.svg" width="96"/><p>New Caledonia (<code>nc</code>)</p></div>
-  <div><img src="flags/nato.svg" width="96"/><p>NATO</p></div>
   <div><img src="flags/ne.svg" width="96"/><p>Niger (<code>ne</code>)</p></div>
   <div><img src="flags/nf.svg" width="96"/><p>Norfolk Island (<code>nf</code>)</p></div>
   <div><img src="flags/ng.svg" width="96"/><p>Nigeria (<code>ng</code>)</p></div>
@@ -272,7 +269,6 @@
   <div><img src="flags/nu.svg" width="96"/><p>Niue (<code>nu</code>)</p></div>
   <div><img src="flags/nz.svg" width="96"/><p>New Zealand (<code>nz</code>)</p></div>
   <div><img src="flags/occitania.svg" width="96"/><p>Occitania</p></div>
-  <div><img src="flags/olympics.svg" width="96"/><p>Olympics</p></div>
   <div><img src="flags/om.svg" width="96"/><p>Oman (<code>om</code>)</p></div>
   <div><img src="flags/otomi.svg" width="96"/><p>Otomi</p></div>
   <div><img src="flags/pa.svg" width="96"/><p>Panama (<code>pa</code>)</p></div>
@@ -356,7 +352,6 @@
   <div><img src="flags/tz.svg" width="96"/><p>Tanzania (<code>tz</code>)</p></div>
   <div><img src="flags/ua.svg" width="96"/><p>Ukraine (<code>ua</code>)</p></div>
   <div><img src="flags/ug.svg" width="96"/><p>Uganda (<code>ug</code>)</p></div>
-  <div><img src="flags/united_nations.svg" width="96"/><p>United Nations (<code>un</code>)</p></div>
   <div><img src="flags/us.svg" width="96"/><p>United States of America (<code>us</code>)</p></div>
   <div><img src="flags/us-ak.svg" width="96"/><p>Alaska (<code>us-ak</code>)</p></div>
   <div><img src="flags/us-al.svg" width="96"/><p>Alabama (<code>us-al</code>)</p></div>
@@ -401,4 +396,229 @@
   <div><img src="flags/zm.svg" width="96"/><p>Zambia (<code>zm</code>)</p></div>
   <div><img src="flags/zw.svg" width="96"/><p>Zimbabwe (<code>zw</code>)</p></div>
 </div>
- 
+
+## Languages
+
+You can also use these codes to refer to a country’s language using its [ISO
+639-1][iso-639-1] or [ISO 639-2][iso-639-2] language code.
+
+<div class="container">
+  <div><img src="flags/language/aa.svg" width="96"/><p>Afar (<code>aa</code>)</p></div>
+  <div><img src="flags/language/ab.svg" width="96"/><p>Abkhazian (<code>ab</code>)</p></div>
+  <div><img src="flags/language/af.svg" width="96"/><p>Afrikaans (<code>af</code>)</p></div>
+  <div><img src="flags/language/ak.svg" width="96"/><p>Akan (<code>ak</code>)</p></div>
+  <div><img src="flags/language/am.svg" width="96"/><p>Amharic (<code>am</code>)</p></div>
+  <div><img src="flags/language/an.svg" width="96"/><p>Aragonese (<code>an</code>)</p></div>
+  <div><img src="flags/language/ar.svg" width="96"/><p>Arabic (<code>ar</code>)</p></div>
+  <div><img src="flags/language/as.svg" width="96"/><p>Assamese (<code>as</code>)</p></div>
+  <div><img src="flags/language/av.svg" width="96"/><p>Avaric (<code>av</code>)</p></div>
+  <div><img src="flags/language/ay.svg" width="96"/><p>Aymara (<code>ay</code>)</p></div>
+  <div><img src="flags/language/az.svg" width="96"/><p>Azerbaijani (<code>az</code>)</p></div>
+  <div><img src="flags/language/ba.svg" width="96"/><p>Bashkir (<code>ba</code>)</p></div>
+  <div><img src="flags/language/be.svg" width="96"/><p>Belarusian (<code>be</code>)</p></div>
+  <div><img src="flags/language/bg.svg" width="96"/><p>Bulgarian (<code>bg</code>)</p></div>
+  <div><img src="flags/language/bi.svg" width="96"/><p>Bislama (<code>bi</code>)</p></div>
+  <div><img src="flags/language/bm.svg" width="96"/><p>Bambara (<code>bm</code>)</p></div>
+  <div><img src="flags/language/bn.svg" width="96"/><p>Bengali (<code>bn</code>)</p></div>
+  <div><img src="flags/language/bo.svg" width="96"/><p>Tibetan (<code>bo</code>)</p></div>
+  <div><img src="flags/language/br.svg" width="96"/><p>Breton (<code>br</code>)</p></div>
+  <div><img src="flags/language/bs.svg" width="96"/><p>Bosnian (<code>bs</code>)</p></div>
+  <div><img src="flags/language/ca.svg" width="96"/><p>Catalan, Valencian (<code>ca</code>)</p></div>
+  <div><img src="flags/language/ce.svg" width="96"/><p>Chechen (<code>ce</code>)</p></div>
+  <div><img src="flags/language/ceb.svg" width="96"/><p>Cebuano (<code>ceb</code>)</p></div>
+  <div><img src="flags/language/ch.svg" width="96"/><p>Chamorro (<code>ch</code>)</p></div>
+  <div><img src="flags/language/chm.svg" width="96"/><p>Mari (<code>chm</code>)</p></div>
+  <div><img src="flags/language/ckb.svg" width="96"/><p>Central Kurdish (<code>ckb</code>)</p></div>
+  <div><img src="flags/language/co.svg" width="96"/><p>Corsican (<code>co</code>)</p></div>
+  <div><img src="flags/language/cs.svg" width="96"/><p>Czech (<code>cs</code>)</p></div>
+  <div><img src="flags/language/cv.svg" width="96"/><p>Chuvash (<code>cv</code>)</p></div>
+  <div><img src="flags/language/cy.svg" width="96"/><p>Welsh (<code>cy</code>)</p></div>
+  <div><img src="flags/language/da.svg" width="96"/><p>Danish (<code>da</code>)</p></div>
+  <div><img src="flags/language/de.svg" width="96"/><p>German (<code>de</code>)</p></div>
+  <div><img src="flags/language/dv.svg" width="96"/><p>Divehi, Dhivehi, Maldivian (<code>dv</code>)</p></div>
+  <div><img src="flags/language/dz.svg" width="96"/><p>Dzongkha (<code>dz</code>)</p></div>
+  <div><img src="flags/language/ee.svg" width="96"/><p>Ewe (<code>ee</code>)</p></div>
+  <div><img src="flags/language/el.svg" width="96"/><p>Modern Greek (<code>el</code>)</p></div>
+  <div><img src="flags/language/en-au.svg" width="96"/><p>Australian English (<code>en-au</code>)</p></div>
+  <div><img src="flags/language/en-ca.svg" width="96"/><p>Canadian English (<code>en-ca</code>)</p></div>
+  <div><img src="flags/language/en-gh.svg" width="96"/><p>Ghanaian English (<code>en-gh</code>)</p></div>
+  <div><img src="flags/language/en-hk.svg" width="96"/><p>Hong Kong English (<code>en-hk</code>)</p></div>
+  <div><img src="flags/language/en-ie.svg" width="96"/><p>Irish English (<code>en-ie</code>)</p></div>
+  <div><img src="flags/language/en-in.svg" width="96"/><p>Indian English (<code>en-in</code>)</p></div>
+  <div><img src="flags/language/en-ke.svg" width="96"/><p>Kenyan English (<code>en-ke</code>)</p></div>
+  <div><img src="flags/language/en-ng.svg" width="96"/><p>Nigerian English (<code>en-ng</code>)</p></div>
+  <div><img src="flags/language/en-nz.svg" width="96"/><p>New Zealand English (<code>en-nz</code>)</p></div>
+  <div><img src="flags/language/en-ph.svg" width="96"/><p>Philippine English (<code>en-ph</code>)</p></div>
+  <div><img src="flags/language/en-sg.svg" width="96"/><p>Singaporean English (<code>en-sg</code>)</p></div>
+  <div><img src="flags/language/en-tz.svg" width="96"/><p>Tanzanian English (<code>en-tz</code>)</p></div>
+  <div><img src="flags/language/en-us.svg" width="96"/><p>US English (<code>en-us</code>)</p></div>
+  <div><img src="flags/language/en-za.svg" width="96"/><p>South African English (<code>en-za</code>)</p></div>
+  <div><img src="flags/language/en.svg" width="96"/><p>English (<code>en</code>)</p></div>
+  <div><img src="flags/language/eo.svg" width="96"/><p>Esperanto (<code>eo</code>)</p></div>
+  <div><img src="flags/language/es-mx.svg" width="96"/><p>Mexican Spanish (<code>es-mx</code>)</p></div>
+  <div><img src="flags/language/es.svg" width="96"/><p>Spanish (<code>es</code>)</p></div>
+  <div><img src="flags/language/et.svg" width="96"/><p>Estonian (<code>et</code>)</p></div>
+  <div><img src="flags/language/eu.svg" width="96"/><p>Basque (<code>eu</code>)</p></div>
+  <div><img src="flags/language/fa.svg" width="96"/><p>Persian (<code>fa</code>)</p></div>
+  <div><img src="flags/language/fi.svg" width="96"/><p>Finnish (<code>fi</code>)</p></div>
+  <div><img src="flags/language/fj.svg" width="96"/><p>Fijian (<code>fj</code>)</p></div>
+  <div><img src="flags/language/fo.svg" width="96"/><p>Faroese (<code>fo</code>)</p></div>
+  <div><img src="flags/language/fr.svg" width="96"/><p>French (<code>fr</code>)</p></div>
+  <div><img src="flags/language/fy.svg" width="96"/><p>Western Frisian (<code>fy</code>)</p></div>
+  <div><img src="flags/language/ga.svg" width="96"/><p>Irish (<code>ga</code>)</p></div>
+  <div><img src="flags/language/gd.svg" width="96"/><p>Gaelic, Scottish Gaelic (<code>gd</code>)</p></div>
+  <div><img src="flags/language/gl.svg" width="96"/><p>Galician (<code>gl</code>)</p></div>
+  <div><img src="flags/language/gn.svg" width="96"/><p>Guarani (<code>gn</code>)</p></div>
+  <div><img src="flags/language/gu.svg" width="96"/><p>Gujarati (<code>gu</code>)</p></div>
+  <div><img src="flags/language/gv.svg" width="96"/><p>Manx (<code>gv</code>)</p></div>
+  <div><img src="flags/language/ha.svg" width="96"/><p>Hausa (<code>ha</code>)</p></div>
+  <div><img src="flags/language/haw.svg" width="96"/><p>haw (<code>haw</code>)</p></div>
+  <div><img src="flags/language/he.svg" width="96"/><p>Hebrew (<code>he</code>)</p></div>
+  <div><img src="flags/language/hi.svg" width="96"/><p>Hindi (<code>hi</code>)</p></div>
+  <div><img src="flags/language/hmn.svg" width="96"/><p>hmn (<code>hmn</code>)</p></div>
+  <div><img src="flags/language/ho.svg" width="96"/><p>Hiri Motu (<code>ho</code>)</p></div>
+  <div><img src="flags/language/hr.svg" width="96"/><p>Croatian (<code>hr</code>)</p></div>
+  <div><img src="flags/language/ht.svg" width="96"/><p>Haitian, Haitian Creole (<code>ht</code>)</p></div>
+  <div><img src="flags/language/hu.svg" width="96"/><p>Hungarian (<code>hu</code>)</p></div>
+  <div><img src="flags/language/hy.svg" width="96"/><p>Armenian (<code>hy</code>)</p></div>
+  <div><img src="flags/language/ia.svg" width="96"/><p>Interlingua (<code>ia</code>)</p></div>
+  <div><img src="flags/language/id.svg" width="96"/><p>Indonesian (<code>id</code>)</p></div>
+  <div><img src="flags/language/ie.svg" width="96"/><p>Interlingue, Occidental (<code>ie</code>)</p></div>
+  <div><img src="flags/language/ig.svg" width="96"/><p>Igbo (<code>ig</code>)</p></div>
+  <div><img src="flags/language/ilo.svg" width="96"/><p>Iloko (<code>ilo</code>)</p></div>
+  <div><img src="flags/language/interslavic.svg" width="96"/><p>Interslavic (<code>interslavic</code>)</p></div>
+  <div><img src="flags/language/io.svg" width="96"/><p>Ido (<code>io</code>)</p></div>
+  <div><img src="flags/language/is.svg" width="96"/><p>Icelandic (<code>is</code>)</p></div>
+  <div><img src="flags/language/it.svg" width="96"/><p>Italian (<code>it</code>)</p></div>
+  <div><img src="flags/language/ja.svg" width="96"/><p>Japanese (<code>ja</code>)</p></div>
+  <div><img src="flags/language/jv.svg" width="96"/><p>Javanese (<code>jv</code>)</p></div>
+  <div><img src="flags/language/ka.svg" width="96"/><p>Georgian (<code>ka</code>)</p></div>
+  <div><img src="flags/language/kg.svg" width="96"/><p>Kongo (<code>kg</code>)</p></div>
+  <div><img src="flags/language/ki.svg" width="96"/><p>Kikuyu, Gikuyu (<code>ki</code>)</p></div>
+  <div><img src="flags/language/kk.svg" width="96"/><p>Kazakh (<code>kk</code>)</p></div>
+  <div><img src="flags/language/kl.svg" width="96"/><p>Kalaallisut, Greenlandic (<code>kl</code>)</p></div>
+  <div><img src="flags/language/km.svg" width="96"/><p>Central Khmer (<code>km</code>)</p></div>
+  <div><img src="flags/language/kn.svg" width="96"/><p>Kannada (<code>kn</code>)</p></div>
+  <div><img src="flags/language/ko.svg" width="96"/><p>Korean (<code>ko</code>)</p></div>
+  <div><img src="flags/language/kr.svg" width="96"/><p>Kanuri (<code>kr</code>)</p></div>
+  <div><img src="flags/language/kri.svg" width="96"/><p>Krio (<code>kri</code>)</p></div>
+  <div><img src="flags/language/ks.svg" width="96"/><p>Kashmiri (<code>ks</code>)</p></div>
+  <div><img src="flags/language/ku.svg" width="96"/><p>Kurdish (<code>ku</code>)</p></div>
+  <div><img src="flags/language/kv.svg" width="96"/><p>Komi (<code>kv</code>)</p></div>
+  <div><img src="flags/language/kw.svg" width="96"/><p>Cornish (<code>kw</code>)</p></div>
+  <div><img src="flags/language/ky.svg" width="96"/><p>Kirghiz, Kyrgyz (<code>ky</code>)</p></div>
+  <div><img src="flags/language/la.svg" width="96"/><p>Latin (<code>la</code>)</p></div>
+  <div><img src="flags/language/lb.svg" width="96"/><p>Luxembourgish, Letzeburgesch (<code>lb</code>)</p></div>
+  <div><img src="flags/language/lg.svg" width="96"/><p>Ganda (<code>lg</code>)</p></div>
+  <div><img src="flags/language/ln.svg" width="96"/><p>Lingala (<code>ln</code>)</p></div>
+  <div><img src="flags/language/lo.svg" width="96"/><p>Lao (<code>lo</code>)</p></div>
+  <div><img src="flags/language/lt.svg" width="96"/><p>Lithuanian (<code>lt</code>)</p></div>
+  <div><img src="flags/language/lu.svg" width="96"/><p>Luba-Katanga (<code>lu</code>)</p></div>
+  <div><img src="flags/language/lus.svg" width="96"/><p>Lushai (<code>lus</code>)</p></div>
+  <div><img src="flags/language/lv.svg" width="96"/><p>Latvian (<code>lv</code>)</p></div>
+  <div><img src="flags/language/mg.svg" width="96"/><p>Malagasy (<code>mg</code>)</p></div>
+  <div><img src="flags/language/mh.svg" width="96"/><p>Marshallese (<code>mh</code>)</p></div>
+  <div><img src="flags/language/mi.svg" width="96"/><p>Maori (<code>mi</code>)</p></div>
+  <div><img src="flags/language/mk.svg" width="96"/><p>Macedonian (<code>mk</code>)</p></div>
+  <div><img src="flags/language/ml.svg" width="96"/><p>Malayalam (<code>ml</code>)</p></div>
+  <div><img src="flags/language/mn.svg" width="96"/><p>Mongolian (<code>mn</code>)</p></div>
+  <div><img src="flags/language/mni.svg" width="96"/><p>Manipuri (<code>mni</code>)</p></div>
+  <div><img src="flags/language/mr.svg" width="96"/><p>Marathi (<code>mr</code>)</p></div>
+  <div><img src="flags/language/mrj.svg" width="96"/><p>Hill Mari (<code>mrj</code>)</p></div>
+  <div><img src="flags/language/ms.svg" width="96"/><p>Malay (<code>ms</code>)</p></div>
+  <div><img src="flags/language/mt.svg" width="96"/><p>Maltese (<code>mt</code>)</p></div>
+  <div><img src="flags/language/my.svg" width="96"/><p>Burmese (<code>my</code>)</p></div>
+  <div><img src="flags/language/na.svg" width="96"/><p>Nauru (<code>na</code>)</p></div>
+  <div><img src="flags/language/nb.svg" width="96"/><p>Norwegian Bokmål (<code>nb</code>)</p></div>
+  <div><img src="flags/language/nd.svg" width="96"/><p>North Ndebele (<code>nd</code>)</p></div>
+  <div><img src="flags/language/ne.svg" width="96"/><p>Nepali (<code>ne</code>)</p></div>
+  <div><img src="flags/language/nl.svg" width="96"/><p>Dutch, Flemish (<code>nl</code>)</p></div>
+  <div><img src="flags/language/nn.svg" width="96"/><p>Norwegian Nynorsk (<code>nn</code>)</p></div>
+  <div><img src="flags/language/no.svg" width="96"/><p>Norwegian (<code>no</code>)</p></div>
+  <div><img src="flags/language/non.svg" width="96"/><p>Old Norse (<code>non</code>)</p></div>
+  <div><img src="flags/language/nr.svg" width="96"/><p>Navajo, Navaho (<code>nr</code>)</p></div>
+  <div><img src="flags/language/ny.svg" width="96"/><p>Chichewa, Chewa, Nyanja (<code>ny</code>)</p></div>
+  <div><img src="flags/language/oc.svg" width="96"/><p>Occitan (<code>oc</code>)</p></div>
+  <div><img src="flags/language/om.svg" width="96"/><p>Oromo (<code>om</code>)</p></div>
+  <div><img src="flags/language/or.svg" width="96"/><p>Oriya (<code>or</code>)</p></div>
+  <div><img src="flags/language/os.svg" width="96"/><p>Ossetian, Ossetic (<code>os</code>)</p></div>
+  <div><img src="flags/language/oto.svg" width="96"/><p>Oto-Pamean (<code>oto</code>)</p></div>
+  <div><img src="flags/language/pa.svg" width="96"/><p>Punjabi, Panjabi (<code>pa</code>)</p></div>
+  <div><img src="flags/language/pap.svg" width="96"/><p>Papiamento (<code>pap</code>)</p></div>
+  <div><img src="flags/language/pl.svg" width="96"/><p>Polish (<code>pl</code>)</p></div>
+  <div><img src="flags/language/pms.svg" width="96"/><p>Piedmontese (<code>pms</code>)</p></div>
+  <div><img src="flags/language/ps.svg" width="96"/><p>Pashto, Pushto (<code>ps</code>)</p></div>
+  <div><img src="flags/language/pt-br.svg" width="96"/><p>Brazilian Portuguese (<code>pt-br</code>)</p></div>
+  <div><img src="flags/language/pt.svg" width="96"/><p>Portuguese (<code>pt</code>)</p></div>
+  <div><img src="flags/language/qu.svg" width="96"/><p>Quechua (<code>qu</code>)</p></div>
+  <div><img src="flags/language/rm.svg" width="96"/><p>Romansh (<code>rm</code>)</p></div>
+  <div><img src="flags/language/rn.svg" width="96"/><p>Rundi (<code>rn</code>)</p></div>
+  <div><img src="flags/language/ro.svg" width="96"/><p>Romanian, Moldavian, Moldovan (<code>ro</code>)</p></div>
+  <div><img src="flags/language/ru.svg" width="96"/><p>Russian (<code>ru</code>)</p></div>
+  <div><img src="flags/language/rw.svg" width="96"/><p>Kinyarwanda (<code>rw</code>)</p></div>
+  <div><img src="flags/language/sc.svg" width="96"/><p>Sardinian (<code>sc</code>)</p></div>
+  <div><img src="flags/language/sd.svg" width="96"/><p>Sindhi (<code>sd</code>)</p></div>
+  <div><img src="flags/language/se.svg" width="96"/><p>Northern Sami (<code>se</code>)</p></div>
+  <div><img src="flags/language/sg.svg" width="96"/><p>Sango (<code>sg</code>)</p></div>
+  <div><img src="flags/language/si.svg" width="96"/><p>Sinhala, Sinhalese (<code>si</code>)</p></div>
+  <div><img src="flags/language/sk.svg" width="96"/><p>Slovak (<code>sk</code>)</p></div>
+  <div><img src="flags/language/sl.svg" width="96"/><p>Slovenian (<code>sl</code>)</p></div>
+  <div><img src="flags/language/sm.svg" width="96"/><p>Samoan (<code>sm</code>)</p></div>
+  <div><img src="flags/language/sn.svg" width="96"/><p>Shona (<code>sn</code>)</p></div>
+  <div><img src="flags/language/so.svg" width="96"/><p>Somali  (<code>so</code>)</p></div>
+  <div><img src="flags/language/sq.svg" width="96"/><p>Albanian (<code>sq</code>)</p></div>
+  <div><img src="flags/language/sr.svg" width="96"/><p>Serbian (<code>sr</code>)</p></div>
+  <div><img src="flags/language/ss.svg" width="96"/><p>Swati (<code>ss</code>)</p></div>
+  <div><img src="flags/language/st.svg" width="96"/><p>Southern Sotho (<code>st</code>)</p></div>
+  <div><img src="flags/language/su.svg" width="96"/><p>Sundanese (<code>su</code>)</p></div>
+  <div><img src="flags/language/sv.svg" width="96"/><p>Swedish (<code>sv</code>)</p></div>
+  <div><img src="flags/language/sw.svg" width="96"/><p>Swahili (<code>sw</code>)</p></div>
+  <div><img src="flags/language/ta.svg" width="96"/><p>Tamil (<code>ta</code>)</p></div>
+  <div><img src="flags/language/te.svg" width="96"/><p>Telugu (<code>te</code>)</p></div>
+  <div><img src="flags/language/tg.svg" width="96"/><p>Tajik (<code>tg</code>)</p></div>
+  <div><img src="flags/language/th.svg" width="96"/><p>Thai (<code>th</code>)</p></div>
+  <div><img src="flags/language/ti.svg" width="96"/><p>Tigrinya (<code>ti</code>)</p></div>
+  <div><img src="flags/language/tk.svg" width="96"/><p>Turkmen (<code>tk</code>)</p></div>
+  <div><img src="flags/language/tl.svg" width="96"/><p>Tagalog (<code>tl</code>)</p></div>
+  <div><img src="flags/language/tn.svg" width="96"/><p>Tswana (<code>tn</code>)</p></div>
+  <div><img src="flags/language/to.svg" width="96"/><p>Tonga (<code>to</code>)</p></div>
+  <div><img src="flags/language/tr.svg" width="96"/><p>Turkish (<code>tr</code>)</p></div>
+  <div><img src="flags/language/tt.svg" width="96"/><p>Tatar (<code>tt</code>)</p></div>
+  <div><img src="flags/language/ty.svg" width="96"/><p>Tahitian (<code>ty</code>)</p></div>
+  <div><img src="flags/language/udm.svg" width="96"/><p>Udmurt (<code>udm</code>)</p></div>
+  <div><img src="flags/language/ug.svg" width="96"/><p>Uighur, Uyghur (<code>ug</code>)</p></div>
+  <div><img src="flags/language/uk.svg" width="96"/><p>Ukrainian (<code>uk</code>)</p></div>
+  <div><img src="flags/language/ur.svg" width="96"/><p>Urdu (<code>ur</code>)</p></div>
+  <div><img src="flags/language/uz.svg" width="96"/><p>Uzbek (<code>uz</code>)</p></div>
+  <div><img src="flags/language/vi.svg" width="96"/><p>Vietnamese (<code>vi</code>)</p></div>
+  <div><img src="flags/language/vo.svg" width="96"/><p>Volapük (<code>vo</code>)</p></div>
+  <div><img src="flags/language/xh.svg" width="96"/><p>Xhosa (<code>xh</code>)</p></div>
+  <div><img src="flags/language/xx.svg" width="96"/><p>Placeholder (<code>xx</code>)</p></div>
+  <div><img src="flags/language/yi.svg" width="96"/><p>Yiddish (<code>yi</code>)</p></div>
+  <div><img src="flags/language/yo.svg" width="96"/><p>Yoruba (<code>yo</code>)</p></div>
+  <div><img src="flags/language/yua.svg" width="96"/><p>Yucatec Maya (<code>yua</code>)</p></div>
+  <div><img src="flags/language/zh.svg" width="96"/><p>Chinese (<code>zh</code>)</p></div>
+  <div><img src="flags/language/zu.svg" width="96"/><p>Zulu (<code>zu</code>)</p></div>
+</div>
+
+## Other flags
+
+<div class="container">
+  <div><img src="flags/other/checkered.svg" width="96"/><p>Checkered (<code>checkered</code>)</p></div>
+  <div><img src="flags/other/chequered.svg" width="96"/><p>Chequered (<code>chequered</code>)</p></div>
+  <div><img src="flags/other/earth.svg" width="96"/><p>Earth (<code>earth</code>)</p></div>
+  <div><img src="flags/other/jolly_roger.svg" width="96"/><p>Jolly Roger (<code>jolly_roger</code>)</p></div>
+  <div><img src="flags/other/klingon.svg" width="96"/><p>Klingon (<code>klingon</code>)</p></div>
+  <div><img src="flags/other/lgbt-progress.svg" width="96"/><p>LGBT Progress (<code>lgbt-progress</code>)</p></div>
+  <div><img src="flags/other/lgbt-transgender.svg" width="96"/><p>Transgender (<code>lgbt-transgender</code>)</p></div>
+  <div><img src="flags/other/lgbt.svg" width="96"/><p>LGBT (<code>lgbt</code>)</p></div>
+  <div><img src="flags/other/mars.svg" width="96"/><p>Mars (<code>mars</code>)</p></div>
+  <div><img src="flags/other/nato.svg" width="96"/><p>NATO (<code>nato</code>)</p></div>
+  <div><img src="flags/other/olympics.svg" width="96"/><p>Olympics (<code>olympics</code>)</p></div>
+  <div><img src="flags/other/pirate.svg" width="96"/><p>Pirate (<code>pirate</code>)</p></div>
+  <div><img src="flags/other/un.svg" width="96"/><p>United Nations (<code>un</code>)</p></div>
+  <div><img src="flags/other/united_nations.svg" width="96"/><p>United Nations (<code>united_nations</code>)</p></div>
+</div>
+
+[iso-639-1]: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+[iso-639-2]: https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
