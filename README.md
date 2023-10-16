@@ -1,4 +1,4 @@
-# circle-flags <img src="logo.svg" alt="square-flags animated logo" align="right">
+# square-flags <img src="logo.svg" alt="square-flags animated logo" align="right">
 
 A collection of ~~circular~~ square SVG country flags, based on
 [circle-flags][circle-flags], by HatScripts.
