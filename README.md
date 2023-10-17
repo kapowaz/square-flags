@@ -16,8 +16,7 @@ flag.
 So, I’ve taken the original artwork and reworked them to suit a square shape
 better. I’ve also taken the opportunity to make a few tweaks here and there to
 colours (adding a new middle dark yellow that has better contrast against light
-backgrounds), as well as building the whole thing out in Figma using components
-(I’ll share this on the community page soon).
+backgrounds), as well as building the whole thing out in Figma using components.
 
 ## Usage
 
@@ -68,17 +67,21 @@ npm install --save https://github.com/kapowaz/square-flags
 
 ## Contributing
 
-To contribute, you need to have the latest version of [svgo][svgo] installed.
+The design files for this set of flags can be found on [Figma as part of the
+Square Flags shared library][figma]. If you wish to make a contribution, create
+a copy of that library and add your changes as a component, then create a pull
+request including the exported SVG file and a link to your copy of the Figma
+file, so that the original can be updated.
 
-First, edit the relevant SVG files in the `flags/` directory.
-
-Then run `svgo` to optimize the SVG files:
+You will also need to ensure you have have the latest version of [svgo][svgo]
+installed; when exporting SVG files, run `svgo` on the `flags/` directory:
 
 ```sh
 svgo ./flags --recursive --config=svgo.config.js
 ```
 
-Then commit the changes, and submit them as a pull request.
+Then commit the changes, and submit them as a pull request along with your Figma
+file.
 
 ### The color palette
 
@@ -122,3 +125,4 @@ This project is released under the [MIT license](LICENSE.md).
 [gallery]: https://kapowaz.github.io/square-flags/gallery
 [react]: https://reactjs.org
 [svgo]: https://github.com/svg/svgo
+[figma]: https://www.figma.com/community/file/1295802738363022628/square-flags
