@@ -18,6 +18,14 @@ better. I’ve also taken the opportunity to make a few tweaks here and there to
 colours (adding a new middle dark yellow that has better contrast against light
 backgrounds), as well as building the whole thing out in Figma using components.
 
+Using the flag for Australia, here’s an example of the kind of change: the Union
+Jack has been replaced with the full design at a quarter scale, the background
+colour has been changed to Navy to more accurately reflect the original, and the
+position of the largest star has been moved to the left, closer to its true
+location.
+
+<img src="https://kapowaz.github.io/square-flags/images/au-comparison.svg" width="168" alt="A comparison of the circle-flags and square-flags equivalents for the flag of Australia" />
+
 ## Usage
 
 ```text
