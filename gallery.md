@@ -618,6 +618,9 @@ You can also use these codes to refer to a country’s language using its [ISO
   <div><img src="flags/other/pirate.svg" width="96"/><p>Pirate (<code>pirate</code>)</p></div>
   <div><img src="flags/other/un.svg" width="96"/><p>United Nations (<code>un</code>)</p></div>
   <div><img src="flags/other/united_nations.svg" width="96"/><p>United Nations (<code>united_nations</code>)</p></div>
+  <div><img src="flags/other/amsterdam.svg" width="96"/><p>Amsterdam (<code>amsterdam</code>)</p></div>
+  <div><img src="flags/other/galactic_empire.svg" width="96"/><p>Galactic Empire (<code>galactic_empire</code>)</p></div>
+  <div><img src="flags/other/rebel_alliance.svg" width="96"/><p>Rebel Alliance (<code>rebel_alliance</code>)</p></div>
 </div>
 
 [iso-639-1]: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
