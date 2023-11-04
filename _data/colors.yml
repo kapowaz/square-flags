@@ -1,0 +1,48 @@
+- hex: '#584528'
+  name: Dark Brown
+- hex: '#85693D'
+  name: Brown
+- hex: '#496E2D'
+  name: Dark Green
+- hex: '#6DA544'
+  name: Green
+- hex: '#338AF3'
+  name: Light Blue
+- hex: '#0052B4'
+  name: Blue
+- hex: '#002266'
+  name: Navy
+- hex: '#4A1F63'
+  name: Purple
+- hex: '#9C27B0'
+  name: Violet
+- hex: '#F5A9B8'
+  name: Pink
+- hex: '#751A46'
+  name: Dark Pink
+- hex: '#A2001D'
+  name: Dark Red
+- hex: '#D80027'
+  name: Bright Red
+- hex: '#FF9811'
+  name: Gold
+- hex: '#FFC635'
+  name: Dark Yellow
+- hex: '#FFDA44'
+  name: Yellow
+- hex: '#333333'
+  name: Black
+- hex: '#818085'
+  name: Dark Grey
+- hex: '#ACABB1'
+  name: Mid Grey 3
+- hex: '#BDBCC1'
+  name: Mid Grey 2
+- hex: '#DEDDE0'
+  name: Mid Grey 1
+- hex: '#F3F3F3'
+  name: Light Grey
+- hex: '#EEEEEE'
+  name: White
+- hex: '#FCFCFC'
+  name: Bright White

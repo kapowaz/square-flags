@@ -98,30 +98,14 @@ Like HatScript’s flag set, this set of flags uses the following color palette
 are in Figma, if you have a proposed modification to an existing flag, create an
 issue and I’ll try and amend the original Figma file.
 
-* `#584528`: Dark Brown
-* `#85693D`: Brown
-* `#496E2D`: Dark Green
-* `#6DA544`: Green
-* `#338AF3`: Light Blue
-* `#0052B4`: Blue
-* `#002266`: Navy
-* `#4A1F63`: Purple
-* `#9C27B0`: Violet
-* `#F5A9B8`: Pink
-* `#751A46`: Dark Pink
-* `#A2001D`: Dark Red
-* `#D80027`: Bright Red
-* `#FF9811`: Gold
-* `#FFC635`: Dark Yellow
-* `#FFDA44`: Yellow
-* `#333333`: Black
-* `#818085`: Dark Grey
-* `#ACABB1`: Mid Grey 3
-* `#BDBCC1`: Mid Grey 2
-* `#DEDDE0`: Mid Grey 1
-* `#F3F3F3`: Light Grey
-* `#EEEEEE`: White
-* `#FCFCFC`: Bright White
+<ul class="colors">
+{% for color in site.data.colors %}
+  <li>
+    <span class="color-marker" style="background-color: {{ color.hex }};"></span>
+    <code>{{ color.hex }}</code> {{ color.name }}
+  </li>
+{% endfor %}
+</ul>
 
 ## License
 
