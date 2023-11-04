@@ -1,0 +1,784 @@
+- code: ad
+  name: Andorra
+- code: ae
+  name: United Arab Emirates
+- code: af
+  name: Afghanistan
+- code: ag
+  name: Antigua and Barbuda
+- code: ai
+  name: Anguilla
+- code: al
+  name: Albania
+- code: am
+  name: Armenia
+- code: an
+  name: Netherlands Antilles
+- code: ao
+  name: Angola
+- code: aq
+  name: Antarctica
+- code: ar
+  name: Argentina
+- code: as
+  name: American Samoa
+- code: at
+  name: Austria
+- code: au
+  name: Australia
+- code: au-aboriginal
+  name: Australian Aboriginal
+- code: au-torres_strait_islands
+  name: Torres Strait Islands
+- code: au-act
+  name: Australian Capital Territory
+- code: au-nsw
+  name: New South Wales
+- code: au-nt
+  name: Northern Territory
+- code: au-qld
+  name: Queensland
+- code: au-sa
+  name: South Australia
+- code: au-tas
+  name: Tasmania
+- code: au-vic
+  name: Victoria
+- code: au-wa
+  name: Western Australia
+- code: aw
+  name: Aruba
+- code: ax
+  name: Åland Islands
+- code: az
+  name: Azerbaijan
+- code: ba
+  name: Bosnia and Herzegovina
+- code: bb
+  name: Barbados
+- code: bd
+  name: Bangladesh
+- code: be
+  name: Belgium
+- code: bf
+  name: Burkina Faso
+- code: bg
+  name: Bulgaria
+- code: bh
+  name: Bahrain
+- code: bi
+  name: Burundi
+- code: bj
+  name: Benin
+- code: bl
+  name: Saint Barthélemy
+- code: bm
+  name: Bermuda
+- code: bn
+  name: Brunei
+- code: bo
+  name: Bolivia
+- code: bq-bo
+  name: Bonaire
+- code: bq-sa
+  name: Saba
+- code: bq-se
+  name: Sint Eustatius
+- code: br
+  name: Brazil
+- code: bs
+  name: Bahamas
+- code: bt
+  name: Bhutan
+- code: bv
+  name: Bouvet Island
+- code: bw
+  name: Botswana
+- code: by
+  name: Belarus
+- code: bz
+  name: Belize
+- code: ca
+  name: Canada
+- code: ca-bc
+  name: British Columbia
+- code: ca-qc
+  name: Quebec
+- code: cc
+  name: Cocos (Keeling) Islands
+- code: cd
+  name: Congo, Democratic Republic of the
+- code: cf
+  name: Central African Republic
+- code: cg
+  name: Congo
+- code: ch
+  name: Switzerland
+- code: ch-gr
+  name: Grisons
+- code: ci
+  name: Ivory Coast
+- code: ck
+  name: Cook Islands
+- code: cl
+  name: Chile
+- code: cm
+  name: Cameroon
+- code: cn
+  name: China
+- code: cn-xj
+  name: Xinjiang
+- code: co
+  name: Colombia
+- code: cq
+  name: Sark
+- code: cr
+  name: Costa Rica
+- code: cu
+  name: Cuba
+- code: cv
+  name: Cabo Verde
+- code: cw
+  name: Curaçao
+- code: cx
+  name: Christmas Island
+- code: cy
+  name: Cyprus
+- code: cz
+  name: Czechia
+- code: de
+  name: Germany
+- code: dj
+  name: Djibouti
+- code: dk
+  name: Denmark
+- code: dm
+  name: Dominica
+- code: do
+  name: Dominican Republic
+- code: dz
+  name: Algeria
+- code: east_african_federation
+  name: East African Federation
+- code: easter_island
+  name: Easter Island
+- code: ec
+  name: Ecuador
+- code: ec-w
+  name: Galápagos
+- code: ee
+  name: Estonia
+- code: eg
+  name: Egypt
+- code: eh
+  name: Western Sahara
+- code: er
+  name: Eritrea
+- code: es
+  name: Spain
+- code: es-variant
+  name: Spain
+- code: es-ar
+  name: Aragon
+- code: es-ce
+  name: Ceuta
+- code: es-cn
+  name: Canary Islands
+- code: es-ct
+  name: Catalonia
+- code: es-ga
+  name: Galicia
+- code: es-ib
+  name: Balearic Islands
+- code: es-ml
+  name: Melilla
+- code: es-pv
+  name: Basque Country
+- code: et
+  name: Ethiopia
+- code: et-af
+  name: Afar
+- code: et-am
+  name: Amhara
+- code: et-be
+  name: Benishangul-Gumuz
+- code: et-ga
+  name: Gambela
+- code: et-ha
+  name: Harari
+- code: et-or
+  name: Oromia
+- code: et-si
+  name: Sidama
+- code: et-sn
+  name: Southern Nations, Nationalities, and Peoples' Region
+- code: et-so
+  name: Somali
+- code: et-sw
+  name: South West Region
+- code: et-ti
+  name: Tigray
+- code: european_union
+  name: European Union
+- code: ewe
+  name: Ewe
+- code: fi
+  name: Finland
+- code: fj
+  name: Fiji
+- code: fk
+  name: Falkland Islands (Malvinas)
+- code: fm
+  name: Micronesia
+- code: fo
+  name: Faroe Islands
+- code: fr
+  name: France
+- code: fr-20r
+  name: Corsica
+- code: fr-bre
+  name: Brittany
+- code: fr-cp
+  name: Clipperton Island
+- code: ga
+  name: Gabon
+- code: gb
+  name: United Kingdom
+- code: gb-con
+  name: Cornwall
+- code: gb-eng
+  name: England
+- code: gb-nir
+  name: Northern Ireland
+- code: gb-ork
+  name: Orkney
+- code: gb-sct
+  name: Scotland
+- code: gb-wls
+  name: Wales
+- code: gd
+  name: Grenada
+- code: ge
+  name: Georgia
+- code: ge-ab
+  name: Abkhazia
+- code: gf
+  name: French Guiana
+- code: gg
+  name: Guernsey
+- code: gh
+  name: Ghana
+- code: gi
+  name: Gibraltar
+- code: gl
+  name: Greenland
+- code: gm
+  name: Gambia
+- code: gn
+  name: Guinea
+- code: gp
+  name: Guadeloupe
+- code: gq
+  name: Equatorial Guinea
+- code: gr
+  name: Greece
+- code: gs
+  name: South Georgia and the South Sandwich Islands
+- code: gt
+  name: Guatemala
+- code: gu
+  name: Guam
+- code: guarani
+  name: Guarani
+- code: gw
+  name: Guinea-Bissau
+- code: gy
+  name: Guyana
+- code: hausa
+  name: Hausa
+- code: hk
+  name: Hong Kong
+- code: hmong
+  name: Hmong
+- code: hm
+  name: Heard Island and McDonald Islands
+- code: hn
+  name: Honduras
+- code: hr
+  name: Croatia
+- code: ht
+  name: Haiti
+- code: hu
+  name: Hungary
+- code: id
+  name: Indonesia
+- code: id-jb
+  name: West Java
+- code: id-jt
+  name: Central Java
+- code: ie
+  name: Ireland
+- code: il
+  name: Israel
+- code: im
+  name: Isle of Man
+- code: in
+  name: India
+- code: in-as
+  name: Assam
+- code: in-gj
+  name: Gujarat
+- code: in-ka
+  name: Karnataka
+- code: in-mn
+  name: Manipur
+- code: in-mz
+  name: Mizoram
+- code: in-or
+  name: Odisha
+- code: in-tg
+  name: Telangana
+- code: in-tn
+  name: Tamil Nadu
+- code: io
+  name: British Indian Ocean Territory
+- code: iq
+  name: Iraq
+- code: iq-kr
+  name: Kurdistan
+- code: ir
+  name: Iran
+- code: is
+  name: Iceland
+- code: it
+  name: Italy
+- code: it-21
+  name: Piedmont
+- code: it-23
+  name: Aosta Valley
+- code: it-25
+  name: Lombardy
+- code: it-32
+  name: Trentino-Alto Adige
+- code: it-34
+  name: Veneto
+- code: it-36
+  name: Friuli Venezia Giulia
+- code: it-42
+  name: Liguria
+- code: it-45
+  name: Emilia-Romagna
+- code: it-52
+  name: Tuscany
+- code: it-55
+  name: Umbria
+- code: it-57
+  name: Marche
+- code: it-62
+  name: Lazio
+- code: it-65
+  name: Abruzzo
+- code: it-67
+  name: Molise
+- code: it-72
+  name: Campania
+- code: it-75
+  name: Apulia
+- code: it-77
+  name: Basilicata
+- code: it-78
+  name: Calabria
+- code: it-82
+  name: Sicily
+- code: it-88
+  name: Sardinia
+- code: je
+  name: Jersey
+- code: jm
+  name: Jamaica
+- code: jo
+  name: Jordan
+- code: jp
+  name: Japan
+- code: kanuri
+  name: Kanuri
+- code: ke
+  name: Kenya
+- code: kg
+  name: Kyrgyzstan
+- code: kh
+  name: Cambodia
+- code: ki
+  name: Kiribati
+- code: kikuyu
+  name: Kikuyu
+- code: km
+  name: Comoros
+- code: kn
+  name: Saint Kitts and Nevis
+- code: kongo
+  name: Kongo
+- code: kp
+  name: North Korea
+- code: kr
+  name: South Korea
+- code: kw
+  name: Kuwait
+- code: ky
+  name: Cayman Islands
+- code: kz
+  name: Kazakhstan
+- code: la
+  name: Laos
+- code: lb
+  name: Lebanon
+- code: lc
+  name: Saint Lucia
+- code: li
+  name: Liechtenstein
+- code: lk
+  name: Sri Lanka
+- code: lr
+  name: Liberia
+- code: ls
+  name: Lesotho
+- code: lt
+  name: Lithuania
+- code: lu
+  name: Luxembourg
+- code: lv
+  name: Latvia
+- code: ly
+  name: Libya
+- code: ma
+  name: Morocco
+- code: malayali
+  name: Malayali
+- code: maori
+  name: Maori
+- code: mc
+  name: Monaco
+- code: md
+  name: Moldova
+- code: me
+  name: Montenegro
+- code: mf
+  name: Saint-Martin
+- code: mg
+  name: Madagascar
+- code: mh
+  name: Marshall Islands
+- code: mk
+  name: North Macedonia
+- code: ml
+  name: Mali
+- code: mm
+  name: Myanmar
+- code: mn
+  name: Mongolia
+- code: mo
+  name: Macao
+- code: mp
+  name: Northern Mariana Islands
+- code: mq
+  name: Martinique
+- code: mr
+  name: Mauritania
+- code: ms
+  name: Montserrat
+- code: mt
+  name: Malta
+- code: mu
+  name: Mauritius
+- code: mv
+  name: Maldives
+- code: mw
+  name: Malawi
+- code: mx
+  name: Mexico
+- code: my
+  name: Malaysia
+- code: mz
+  name: Mozambique
+- code: na
+  name: Namibia
+- code: nc
+  name: New Caledonia
+- code: ne
+  name: Niger
+- code: nf
+  name: Norfolk Island
+- code: ng
+  name: Nigeria
+- code: ni
+  name: Nicaragua
+- code: nl
+  name: Netherlands
+- code: nl-fr
+  name: Friesland
+- code: "no"
+  name: Norway
+- code: northern_cyprus
+  name: Northern Cyprus
+- code: np
+  name: Nepal
+- code: nr
+  name: Nauru
+- code: nu
+  name: Niue
+- code: nz
+  name: New Zealand
+- code: occitania
+  name: Occitania
+- code: om
+  name: Oman
+- code: otomi
+  name: Otomi
+- code: pa
+  name: Panama
+- code: pe
+  name: Peru
+- code: pf
+  name: French Polynesia
+- code: pg
+  name: Papua New Guinea
+- code: ph
+  name: Philippines
+- code: pk
+  name: Pakistan
+- code: pk-jk
+  name: Azad Kashmir
+- code: pk-sd
+  name: Sindh
+- code: pl
+  name: Poland
+- code: pm
+  name: Saint Pierre and Miquelon
+- code: pn
+  name: Pitcairn Islands
+- code: pr
+  name: Puerto Rico
+- code: ps
+  name: Palestine
+- code: pt-20
+  name: Azores
+- code: pt-30
+  name: Madeira
+- code: pt
+  name: Portugal
+- code: pw
+  name: Palau
+- code: py
+  name: Paraguay
+- code: qa
+  name: Qatar
+- code: quechua
+  name: Quechua
+- code: re
+  name: Réunion
+- code: ro
+  name: Romania
+- code: rs
+  name: Serbia
+- code: ru
+  name: Russia
+- code: ru-ba
+  name: Bashkortostan
+- code: ru-ce
+  name: Chechnya
+- code: ru-cu
+  name: Chuvashia
+- code: ru-da
+  name: Dagestan
+- code: ru-dpr
+  name: Donetsk People's Republic
+- code: ru-ko
+  name: Komi Republic
+- code: ru-lpr
+  name: Luhansk People's Republic
+- code: ru-ta
+  name: Tatarstan
+- code: ru-ud
+  name: Udmurtia
+- code: rw
+  name: Rwanda
+- code: sa
+  name: Saudi Arabia
+- code: sami
+  name: Sami
+- code: sb
+  name: Solomon Islands
+- code: sc
+  name: Seychelles
+- code: sd
+  name: Sudan
+- code: se
+  name: Sweden
+- code: sg
+  name: Singapore
+- code: sh-ac
+  name: Ascension Island
+- code: sh-hl
+  name: Saint Helena
+- code: sh-ta
+  name: Tristan da Cunha
+- code: si
+  name: Slovenia
+- code: sj
+  name: Svalbard and Jan Mayen
+- code: sk
+  name: Slovakia
+- code: sl
+  name: Sierra Leone
+- code: sm
+  name: San Marino
+- code: sn
+  name: Senegal
+- code: so
+  name: Somalia
+- code: somaliland
+  name: Somaliland
+- code: south_ossetia
+  name: South Ossetia
+- code: soviet_union
+  name: Soviet Union
+- code: sr
+  name: Suriname
+- code: ss
+  name: South Sudan
+- code: st
+  name: São Tomé and Príncipe
+- code: sv
+  name: El Salvador
+- code: sx
+  name: Sint Maarten
+- code: sy
+  name: Syria
+- code: sz
+  name: Eswatini
+- code: tc
+  name: Turks and Caicos Islands
+- code: td
+  name: Chad
+- code: tf
+  name: French Southern Territories
+- code: tg
+  name: Togo
+- code: th
+  name: Thailand
+- code: tibet
+  name: Tibet
+- code: tj
+  name: Tajikistan
+- code: tk
+  name: Tokelau
+- code: tl
+  name: Timor-Leste
+- code: tm
+  name: Turkmenistan
+- code: tn
+  name: Tunisia
+- code: to
+  name: Tonga
+- code: tr
+  name: Turkey
+- code: transnistria
+  name: Transnistria
+- code: tt
+  name: Trinidad and Tobago
+- code: tv
+  name: Tuvalu
+- code: tw
+  name: Taiwan
+- code: tz
+  name: Tanzania
+- code: ua
+  name: Ukraine
+- code: ug
+  name: Uganda
+- code: us
+  name: United States of America
+- code: us-ak
+  name: Alaska
+- code: us-al
+  name: Alabama
+- code: us-ar
+  name: Arkansas
+- code: us-az
+  name: Arizona
+- code: us-ca
+  name: California
+- code: us-co
+  name: Colorado
+- code: us-dc
+  name: District of Columbia
+- code: us-fl
+  name: Florida
+- code: us-ga
+  name: Georgia
+- code: us-hi
+  name: Hawaii
+- code: us-in
+  name: Indiana
+- code: us-mo
+  name: Missouri
+- code: us-ms
+  name: Mississippi
+- code: us-nc
+  name: North Carolina
+- code: us-nm
+  name: New Mexico
+- code: us-ri
+  name: Rhode Island
+- code: us-tn
+  name: Tennessee
+- code: us-tx
+  name: Texas
+- code: us-betsy_ross
+  name: Betsy Ross
+- code: us-confederate_battle
+  name: Confederate battle
+- code: um
+  name: United States Minor Outlying Islands
+- code: uy
+  name: Uruguay
+- code: uz
+  name: Uzbekistan
+- code: va
+  name: Holy See (Vatican)
+- code: vc
+  name: Saint Vincent and the Grenadines
+- code: ve
+  name: Venezuela
+- code: vg
+  name: Virgin Islands (British)
+- code: vi
+  name: Virgin Islands (U.S.)
+- code: vn
+  name: Vietnam
+- code: vu
+  name: Vanuatu
+- code: wf
+  name: Wallis and Futuna
+- code: wiphala
+  name: Wiphala
+- code: ws
+  name: Samoa
+- code: xk
+  name: Kosovo
+- code: xx
+  name: "&lt;Placeholder&gt;"
+- code: ye
+  name: Yemen
+- code: yorubaland
+  name: Yorubaland
+- code: yt
+  name: Mayotte
+- code: yu
+  name: Yugoslavia
+- code: za
+  name: South Africa
+- code: zm
+  name: Zambia
+- code: zw
+  name: Zimbabwe
