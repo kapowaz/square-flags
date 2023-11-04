@@ -1,0 +1,392 @@
+- code: aa
+  name: Afar
+- code: ab
+  name: Abkhazian
+- code: af
+  name: Afrikaans
+- code: ak
+  name: Akan
+- code: am
+  name: Amharic
+- code: an
+  name: Aragonese
+- code: ar
+  name: Arabic
+- code: as
+  name: Assamese
+- code: av
+  name: Avaric
+- code: ay
+  name: Aymara
+- code: az
+  name: Azerbaijani
+- code: ba
+  name: Bashkir
+- code: be
+  name: Belarusian
+- code: bg
+  name: Bulgarian
+- code: bi
+  name: Bislama
+- code: bm
+  name: Bambara
+- code: bn
+  name: Bengali
+- code: bo
+  name: Tibetan
+- code: br
+  name: Breton
+- code: bs
+  name: Bosnian
+- code: ca
+  name: Catalan, Valencian
+- code: ce
+  name: Chechen
+- code: ceb
+  name: Cebuano
+- code: ch
+  name: Chamorro
+- code: chm
+  name: Mari
+- code: ckb
+  name: Central Kurdish
+- code: co
+  name: Corsican
+- code: cs
+  name: Czech
+- code: cv
+  name: Chuvash
+- code: cy
+  name: Welsh
+- code: da
+  name: Danish
+- code: de
+  name: German
+- code: dv
+  name: Divehi, Dhivehi, Maldivian
+- code: dz
+  name: Dzongkha
+- code: ee
+  name: Ewe
+- code: el
+  name: Modern Greek
+- code: en-au
+  name: Australian English
+- code: en-ca
+  name: Canadian English
+- code: en-gh
+  name: Ghanaian English
+- code: en-hk
+  name: Hong Kong English
+- code: en-ie
+  name: Irish English
+- code: en-in
+  name: Indian English
+- code: en-ke
+  name: Kenyan English
+- code: en-ng
+  name: Nigerian English
+- code: en-nz
+  name: New Zealand English
+- code: en-ph
+  name: Philippine English
+- code: en-sg
+  name: Singaporean English
+- code: en-tz
+  name: Tanzanian English
+- code: en-us
+  name: US English
+- code: en-za
+  name: South African English
+- code: en
+  name: English
+- code: eo
+  name: Esperanto
+- code: es-mx
+  name: Mexican Spanish
+- code: es
+  name: Spanish
+- code: et
+  name: Estonian
+- code: eu
+  name: Basque
+- code: fa
+  name: Persian
+- code: fi
+  name: Finnish
+- code: fj
+  name: Fijian
+- code: fo
+  name: Faroese
+- code: fr
+  name: French
+- code: fy
+  name: Western Frisian
+- code: ga
+  name: Irish
+- code: gd
+  name: Gaelic, Scottish Gaelic
+- code: gl
+  name: Galician
+- code: gn
+  name: Guarani
+- code: gu
+  name: Gujarati
+- code: gv
+  name: Manx
+- code: ha
+  name: Hausa
+- code: haw
+  name: haw
+- code: he
+  name: Hebrew
+- code: hi
+  name: Hindi
+- code: hmn
+  name: hmn
+- code: ho
+  name: Hiri Motu
+- code: hr
+  name: Croatian
+- code: ht
+  name: Haitian, Haitian Creole
+- code: hu
+  name: Hungarian
+- code: hy
+  name: Armenian
+- code: ia
+  name: Interlingua
+- code: id
+  name: Indonesian
+- code: ie
+  name: Interlingue, Occidental
+- code: ig
+  name: Igbo
+- code: ilo
+  name: Iloko
+- code: interslavic
+  name: Interslavic
+- code: io
+  name: Ido
+- code: is
+  name: Icelandic
+- code: it
+  name: Italian
+- code: ja
+  name: Japanese
+- code: jv
+  name: Javanese
+- code: ka
+  name: Georgian
+- code: kg
+  name: Kongo
+- code: ki
+  name: Kikuyu, Gikuyu
+- code: kk
+  name: Kazakh
+- code: kl
+  name: Kalaallisut, Greenlandic
+- code: km
+  name: Central Khmer
+- code: kn
+  name: Kannada
+- code: ko
+  name: Korean
+- code: kr
+  name: Kanuri
+- code: kri
+  name: Krio
+- code: ks
+  name: Kashmiri
+- code: ku
+  name: Kurdish
+- code: kv
+  name: Komi
+- code: kw
+  name: Cornish
+- code: ky
+  name: Kirghiz, Kyrgyz
+- code: la
+  name: Latin
+- code: lb
+  name: Luxembourgish, Letzeburgesch
+- code: lg
+  name: Ganda
+- code: ln
+  name: Lingala
+- code: lo
+  name: Lao
+- code: lt
+  name: Lithuanian
+- code: lu
+  name: Luba-Katanga
+- code: lus
+  name: Lushai
+- code: lv
+  name: Latvian
+- code: mg
+  name: Malagasy
+- code: mh
+  name: Marshallese
+- code: mi
+  name: Maori
+- code: mk
+  name: Macedonian
+- code: ml
+  name: Malayalam
+- code: mn
+  name: Mongolian
+- code: mni
+  name: Manipuri
+- code: mr
+  name: Marathi
+- code: mrj
+  name: Hill Mari
+- code: ms
+  name: Malay
+- code: mt
+  name: Maltese
+- code: my
+  name: Burmese
+- code: na
+  name: Nauru
+- code: nb
+  name: Norwegian Bokmål
+- code: nd
+  name: North Ndebele
+- code: ne
+  name: Nepali
+- code: nl
+  name: Dutch, Flemish
+- code: nn
+  name: Norwegian Nynorsk
+- code: "no"
+  name: Norwegian
+- code: non
+  name: Old Norse
+- code: nr
+  name: Navajo, Navaho
+- code: ny
+  name: Chichewa, Chewa, Nyanja
+- code: oc
+  name: Occitan
+- code: om
+  name: Oromo
+- code: or
+  name: Oriya
+- code: os
+  name: Ossetian, Ossetic
+- code: oto
+  name: Oto-Pamean
+- code: pa
+  name: Punjabi, Panjabi
+- code: pap
+  name: Papiamento
+- code: pl
+  name: Polish
+- code: pms
+  name: Piedmontese
+- code: ps
+  name: Pashto, Pushto
+- code: pt-br
+  name: Brazilian Portuguese
+- code: pt
+  name: Portuguese
+- code: qu
+  name: Quechua
+- code: rm
+  name: Romansh
+- code: rn
+  name: Rundi
+- code: ro
+  name: Romanian, Moldavian, Moldovan
+- code: ru
+  name: Russian
+- code: rw
+  name: Kinyarwanda
+- code: sc
+  name: Sardinian
+- code: sd
+  name: Sindhi
+- code: se
+  name: Northern Sami
+- code: sg
+  name: Sango
+- code: si
+  name: Sinhala, Sinhalese
+- code: sk
+  name: Slovak
+- code: sl
+  name: Slovenian
+- code: sm
+  name: Samoan
+- code: sn
+  name: Shona
+- code: so
+  name: Somali
+- code: sq
+  name: Albanian
+- code: sr
+  name: Serbian
+- code: ss
+  name: Swati
+- code: st
+  name: Southern Sotho
+- code: su
+  name: Sundanese
+- code: sv
+  name: Swedish
+- code: sw
+  name: Swahili
+- code: ta
+  name: Tamil
+- code: te
+  name: Telugu
+- code: tg
+  name: Tajik
+- code: th
+  name: Thai
+- code: ti
+  name: Tigrinya
+- code: tk
+  name: Turkmen
+- code: tl
+  name: Tagalog
+- code: tn
+  name: Tswana
+- code: to
+  name: Tonga
+- code: tr
+  name: Turkish
+- code: tt
+  name: Tatar
+- code: ty
+  name: Tahitian
+- code: udm
+  name: Udmurt
+- code: ug
+  name: Uighur, Uyghur
+- code: uk
+  name: Ukrainian
+- code: ur
+  name: Urdu
+- code: uz
+  name: Uzbek
+- code: vi
+  name: Vietnamese
+- code: vo
+  name: Volapük
+- code: xh
+  name: Xhosa
+- code: xx
+  name: Placeholder
+- code: yi
+  name: Yiddish
+- code: yo
+  name: Yoruba
+- code: yua
+  name: Yucatec Maya
+- code: zh
+  name: Chinese
+- code: zu
+  name: Zulu
