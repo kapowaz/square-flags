@@ -1,7 +1,3 @@
----
-layout: default
-title: square-flags
----
 # square-flags <img src="logo.svg" alt="square-flags animated logo" align="right">
 
 A collection of ~~circular~~ square SVG country flags, based on
