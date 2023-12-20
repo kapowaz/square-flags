@@ -720,6 +720,8 @@
   name: Hawaii
 - code: us-in
   name: Indiana
+- code: us-mn
+  name: Minnesota
 - code: us-mo
   name: Missouri
 - code: us-ms
