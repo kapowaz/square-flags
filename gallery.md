@@ -10,7 +10,7 @@ title: Gallery
 
 <div class="container">
 {% for flag in site.data.flags %}
-  <div>
+  <div id="flag-{{ flag.code }}">
     <code title="{{ flag.code }}">{{ flag.code }}</code>
     <img src="flags/{{ flag.code }}.svg"/>
     <p>{{ flag.name }}</p>
@@ -25,7 +25,7 @@ You can also use these codes to refer to a country’s language using its [ISO
 
 <div class="container">
 {% for language in site.data.languages %}
-  <div>
+  <div id="lang-{{ language.code }}">
     <code title="{{ language.code }}">{{ language.code }}</code>
     <img src="flags/language/{{ language.code }}.svg"/>
     <p>{{ language.name }}</p>
@@ -37,7 +37,7 @@ You can also use these codes to refer to a country’s language using its [ISO
 
 <div class="container">
 {% for other in site.data.others %}
-  <div>
+  <div id="other-{{ other.code }}">
     <code title="{{ other.code }}">{{ other.code }}</code>
     <img src="flags/other/{{ other.code }}.svg"/>
     <p>{{ other.name }}</p>
