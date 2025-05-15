@@ -6,6 +6,11 @@
     "type": "git",
     "url": "git+https://github.com/kapowaz/square-flags.git"
   },
+  "engines": {
+    "node": "18.18.*",
+    "npm": "please-use-yarn",
+    "yarn": ">= 1.22.0"
+  },
   "keywords": [
     "svg",
     "country-flags",
@@ -26,10 +31,18 @@
     "squares",
     "icon-pack"
   ],
-  "contributors": ["Ben Darlow <ben@kapowaz.net>"],
+  "contributors": [
+    "Ben Darlow <ben@kapowaz.net>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kapowaz/square-flags/issues"
   },
-  "homepage": "https://github.com/kapowaz/square-flags#readme"
+  "homepage": "https://github.com/kapowaz/square-flags#readme",
+  "devDependencies": {
+    "@docusaurus/eslint-plugin": "^3.7.0",
+    "@eslint/eslintrc": "^3",
+    "eslint": "^9",
+    "prettier": "^3.5.1"
+  }
 }
