@@ -11,6 +11,9 @@
     "npm": "please-use-yarn",
     "yarn": ">= 1.22.0"
   },
+  "scripts": {
+    "css-vars": "node scripts/updateCustomProperties.js"
+  },
   "keywords": [
     "svg",
     "country-flags",
@@ -42,7 +45,10 @@
   "devDependencies": {
     "@docusaurus/eslint-plugin": "^3.7.0",
     "@eslint/eslintrc": "^3",
+    "colors": "^1.4.0",
     "eslint": "^9",
-    "prettier": "^3.5.1"
+    "jsdom": "^26.1.0",
+    "prettier": "^3.5.1",
+    "w3c-xmlserializer": "^5.0.0"
   }
 }
