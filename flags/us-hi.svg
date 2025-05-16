@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><g clip-path="url(#a)"><path fill="#EEE" d="M0 256V96l32-32L0 32V0h32l32 32L96 0h416v64l-32 64 32 64v64l-32 64 32 64v64l-256 32L0 448v-64l32-64z"/><path fill="#026" d="m173 128 83 83v-19h256v-64L384 96l-128 32zm-45 45v83h83zM0 320v64h512v-64l-256-32z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M32 0v32H0v64h32v160H0v64h512v-64H96V96h160v32h256V64H256V32H96V0zm224 256v-31l-97-97h-31zM0 448v64h512v-64z"/><path fill="#026" d="M0 0h256v256H0z"/><path fill="#EEE" d="M232 256h24v-24L152 128 256 24V0h-24L128 104 24 0H0v24l104 104L0 232v24h24l104-104z"/><path fill="#EEE" d="M256 160V96h-96V0H96v96H0v64h96v96h64v-96z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M256 144v-32H144V0h-32v112H0v32h112v112h32V144z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 16V0l96 96H80zm256 224v16l-96-96h16zM16 256H0l96-96v16zM240 0h16l-96 96V80z"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h512v512H0z"/></clipPath></defs></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 256V96L32 64L0 32V0H32L64 32L96 0H512V64L480 128L512 192V256L480 320L512 384V448L256 480L0 448V384L32 320L0 256Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M173 128L256 211V192H512V128L384 96L256 128H173ZM128 173V256H211L128 173ZM0 320V384H512V320L256 288L0 320Z" fill="var(--flag-palette-navy, #002266)"/>
+<path d="M32 0V32H0V96H32V256H0V320H512V256H96V96H256V128H512V64H256V32H96V0H32ZM256 256V225L159 128H128L256 256ZM0 448V512H512V448H0Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<rect width="256" height="256" fill="var(--flag-palette-navy, #002266)"/>
+<path d="M232 256H256V232L152 128L256 24V0H232L128 104L24 0H0V24L104 128L0 232V256H24L128 152L232 256Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M256 160V96H160V0H96V96H0V160H96V256H160V160H256Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M256 144V112H144V0H112V112H0V144H112V256H144V144H256Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M0 16V0L96 96H80L0 16Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M256 240L256 256L160 160L176 160L256 240Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M16 256L0 256L96 160L96 176L16 256Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M240 -6.99382e-07L256 0L160 96L160 80L240 -6.99382e-07Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+</svg>

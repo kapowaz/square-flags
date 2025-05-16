@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><g clip-path="url(#a)"><path fill="#EEE" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-blue, #0052b4)" d="m0 128 192 192v192H0zm512 0L320 320v192h192z"/><path fill="var(--flag-palette-dark-yellow, #ffc635)" d="M192 192h128a64 64 0 0 0-128 0"/><path fill="var(--flag-palette-bright-red, #d80027)" d="m256 320-96-96h192z"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h512v512H0z"/></clipPath></defs></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M0 128L192 320V512H0V128ZM512 128L320 320V512H512V128Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M192 192H320C320 156.654 291.346 128 256 128C220.654 128 192 156.654 192 192Z" fill="var(--flag-palette-dark-yellow, #ffc635)"/>
+<path d="M256 320L160 224H352L256 320Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+</svg>

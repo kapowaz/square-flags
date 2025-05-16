@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-green, #6da544)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-yellow, #ffda44)" fill-rule="evenodd" d="M0 0v512l512-256z" clip-rule="evenodd"/><path fill="#EEE" fill-rule="evenodd" d="m0 0 512 256L0 512v-28.6L454.8 256 0 28.6z" clip-rule="evenodd"/><path fill="var(--flag-palette-bright-red, #d80027)" fill-rule="evenodd" d="M0 0v512l256-256z" clip-rule="evenodd"/><path fill="#333" fill-rule="evenodd" d="M0 0v36.2L219.8 256 0 475.8V512l256-256z" clip-rule="evenodd"/></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" fill="var(--flag-palette-green, #6da544)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V512L512 256L0 0Z" fill="var(--flag-palette-yellow, #ffda44)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0L512 256L0 512V483.378L454.757 256L0 28.6217V0Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V512L256 256L0 0Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0V36.2037L219.796 256L0 475.796V512L256 256L0 0Z" fill="var(--flag-palette-black, #333333)"/>
+</svg>

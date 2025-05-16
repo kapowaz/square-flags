@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-light-blue, #338af3)" d="M0 0h512v512H0z"/><path fill="#EEE" fill-rule="evenodd" d="M512 64H0v64h512zm0 128H0v64h512zM0 320h512v64H0zm512 128H0v64h512z" clip-rule="evenodd"/><path fill="var(--flag-palette-light-blue, #338af3)" d="M0 0h320v320H0z"/><path fill="#EEE" d="M128 0h64v320h-64z"/><path fill="#EEE" d="M320 128v64H0v-64z"/></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" fill="var(--flag-palette-light-blue, #338af3)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M512 64H0V128H512V64ZM512 192H0V256H512V192ZM0 320H512V384H0V320ZM512 448H0V512H512V448Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<rect width="320" height="320" fill="var(--flag-palette-light-blue, #338af3)"/>
+<rect x="128" width="64" height="320" fill="var(--flag-palette-white, #eeeeee)"/>
+<rect x="320" y="128" width="64" height="320" transform="rotate(90 320 128)" fill="var(--flag-palette-white, #eeeeee)"/>
+</svg>
