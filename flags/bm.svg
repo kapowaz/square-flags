@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 0h512v512H0z"/><path fill="#026" d="M0 0h256v256H0z"/><path fill="#EEE" d="M232 256h24v-24L152 128 256 24V0h-24L128 104 24 0H0v24l104 104L0 232v24h24l104-104z"/><path fill="#EEE" d="M256 160V96h-96V0H96v96H0v64h96v96h64v-96z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M256 144v-32H144V0h-32v112H0v32h112v112h32V144z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 16V0l96 96H80zm256 224v16l-96-96h16zM16 256H0l96-96v16zM240 0h16l-96 96V80z"/><path fill="var(--flag-palette-light-grey, #f3f3f3)" d="M306 155.8v122.5c0 59.6 156 59.6 156 0V155.8z"/><path fill="var(--flag-palette-green, #6da544)" d="M306 278.3c0 59.6 78 77.9 78 77.9s78-18.3 78-78z"/><path fill="var(--flag-palette-dark-red, #a2001d)" d="m384 229.3-36.2 15.6v33.4l36.2 22.2 36.2-22.2v-33.4z"/><path fill="var(--flag-palette-light-blue, #338af3)" d="M347.8 211.5h72.4v33.4h-72.4z"/></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" fill="var(--flag-palette-bright-red, #d80027)"/>
+<rect width="256" height="256" fill="var(--flag-palette-navy, #002266)"/>
+<path d="M232 256H256V232L152 128L256 24V0H232L128 104L24 0H0V24L104 128L0 232V256H24L128 152L232 256Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M256 160V96H160V0H96V96H0V160H96V256H160V160H256Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M256 144V112H144V0H112V112H0V144H112V256H144V144H256Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M0 16V0L96 96H80L0 16Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M256 240L256 256L160 160L176 160L256 240Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M16 256L0 256L96 160L96 176L16 256Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M240 -6.99382e-07L256 0L160 96L160 80L240 -6.99382e-07Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M306.09 155.818V278.262C306.09 337.907 461.928 337.907 461.928 278.262V155.818H306.09Z" fill="var(--flag-palette-light-grey, #f3f3f3)"/>
+<path d="M306.09 278.263V278.262C306.09 337.906 384.009 356.182 384.009 356.182C384.009 356.182 461.928 337.906 461.928 278.262V278.263H306.09Z" fill="var(--flag-palette-green, #6da544)"/>
+<path d="M384.009 229.285L347.832 244.869V278.263L384.009 300.526L420.186 278.263V244.869L384.009 229.285Z" fill="var(--flag-palette-dark-red, #a2001d)"/>
+<path d="M347.832 211.475H420.186V244.869H347.832V211.475Z" fill="var(--flag-palette-light-blue, #338af3)"/>
+</svg>

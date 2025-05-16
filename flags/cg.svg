@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-bright-red, #d80027)" d="M512 0v512H0V0z"/><path fill="var(--flag-palette-green, #6da544)" d="M0 512V0h512z"/><path fill="var(--flag-palette-yellow, #ffda44)" d="M512 112V0H400L0 400v112h112z"/></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M512 0V512H0.00030365L0.015625 0H512Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M0 512L-4.47605e-05 4.47605e-05L512 0L0 512Z" fill="var(--flag-palette-green, #6da544)"/>
+<path d="M512 112V0H400L0 400V512H112L512 112Z" fill="var(--flag-palette-yellow, #ffda44)"/>
+</svg>

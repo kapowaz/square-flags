@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="#026" d="M0 0h512v512H0z"/><path fill="#026" d="M0 0h256v256H0z"/><path fill="#EEE" d="M232 256h24v-24L152 128 256 24V0h-24L128 104 24 0H0v24l104 104L0 232v24h24l104-104z"/><path fill="#EEE" d="M256 160V96h-96V0H96v96H0v64h96v96h64v-96z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M256 144v-32H144V0h-32v112H0v32h112v112h32V144z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 16V0l96 96H80zm256 224v16l-96-96h16zM16 256H0l96-96v16zM240 0h16l-96 96V80z"/><path fill="var(--flag-palette-gold, #ff9811)" d="M382 330a74 74 0 1 0 0-148 74 74 0 0 0 0 148"/><path fill="#333" d="M382 228a14 14 0 0 0-14 14h-42a14 14 0 0 0 14 14 14 14 0 0 0 14 14 14 14 0 0 0 14 14h28a14 14 0 0 0 14-14 14 14 0 0 0 14-14 14 14 0 0 0 14-14h-42a14 14 0 0 0-14-14"/></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" fill="var(--flag-palette-navy, #002266)"/>
+<rect width="256" height="256" fill="var(--flag-palette-navy, #002266)"/>
+<path d="M232 256H256V232L152 128L256 24V0H232L128 104L24 0H0V24L104 128L0 232V256H24L128 152L232 256Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M256 160V96H160V0H96V96H0V160H96V256H160V160H256Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M256 144V112H144V0H112V112H0V144H112V256H144V144H256Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M0 16V0L96 96H80L0 16Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M256 240L256 256L160 160L176 160L256 240Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M16 256L0 256L96 160L96 176L16 256Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M240 -6.99382e-07L256 0L160 96L160 80L240 -6.99382e-07Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M382 330C422.869 330 456 296.869 456 256C456 215.131 422.869 182 382 182C341.131 182 308 215.131 308 256C308 296.869 341.131 330 382 330Z" fill="var(--flag-palette-gold, #ff9811)"/>
+<path d="M382 228C378.287 228 374.726 229.475 372.1 232.101C369.475 234.726 368 238.287 368 242H326C326 245.713 327.475 249.274 330.1 251.899C332.726 254.525 336.287 256 340 256C340 259.713 341.475 263.274 344.1 265.9C346.726 268.525 350.287 270 354 270C354 273.713 355.475 277.274 358.1 279.9C360.726 282.525 364.287 284 368 284H396C399.713 284 403.274 282.525 405.9 279.9C408.525 277.274 410 273.713 410 270C413.713 270 417.274 268.525 419.9 265.9C422.525 263.274 424 259.713 424 256C427.713 256 431.274 254.525 433.9 251.899C436.525 249.274 438 245.713 438 242H396C396 238.287 394.525 234.726 391.9 232.101C389.274 229.475 385.713 228 382 228Z" fill="var(--flag-palette-black, #333333)"/>
+</svg>

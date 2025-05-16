@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-green, #6da544)" d="M0 136h512v240H0z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 344h512v168H0z"/><path fill="var(--flag-palette-yellow, #ffda44)" d="M0 0h512v168H0z"/><path fill="#EEE" fill-rule="evenodd" d="M298.4 215.7 256 85.3l-42.4 130.4h-137l110.9 80.6L145 426.7 256 346l111 80.6-42.5-130.4 111-80.6z" clip-rule="evenodd"/></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="136" width="512" height="240" fill="var(--flag-palette-green, #6da544)"/>
+<rect y="344" width="512" height="168" fill="var(--flag-palette-bright-red, #d80027)"/>
+<rect width="512" height="168" fill="var(--flag-palette-yellow, #ffda44)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M298.363 215.712L256 85.334L213.638 215.712H76.5508L187.457 296.29L145.094 426.667L256 346.089L366.906 426.667L324.544 296.29L435.45 215.712H298.363Z" fill="var(--flag-palette-white, #eeeeee)"/>
+</svg>

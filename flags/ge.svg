@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="#EEE" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M512 288v-64H288V0h-64v224H0v64h224v224h64V288z"/><path fill="var(--flag-palette-bright-red, #d80027)" fill-rule="evenodd" d="M384 64v32h-32v32h32v32h32v-32h32V96h-32V64zM96 384v-32h32v32h32v32h-32v32H96v-32H64v-32zm288 0v-32h32v32h32v32h-32v32h-32v-32h-32v-32zM96 96V64h32v32h32v32h-32v32H96v-32H64V96z" clip-rule="evenodd"/></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M512 288V224H288V0H224V224H0V288H224V512H288V288H512Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M384 64V96H352V128H384V160H416V128H448V96H416V64H384ZM96 384V352H128V384H160V416H128V448H96V416H64V384H96ZM384 384V352H416V384H448V416H416V448H384V416H352V384H384ZM96 96V64H128V96H160V128H128V160H96V128H64V96H96Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+</svg>

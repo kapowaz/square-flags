@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><g clip-path="url(#a)"><path fill="var(--flag-palette-light-blue, #338af3)" d="M512 0v512H0V0z"/><path fill="var(--flag-palette-green, #6da544)" d="M0 512V0h512z"/><path fill="var(--flag-palette-yellow, #ffda44)" d="M512 112V0H400L0 400v112h112z"/><path fill="#333" d="M0 448v64h64L512 64V0h-64z"/><path fill="#EEE" d="M512 512H0V16l176 176h16l32 32v64h64z"/><path fill="var(--flag-palette-blue, #0052b4)" d="M144 320H0v144zM0 48l144 144H0zm192 320L48 512h144zm128 144h144L320 368z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="m288 288-64-64H0v64h224v224h64z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="m32 512 160-160v-32L0 512zM0 32l160 160h32L0 0z"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h512v512H0z"/></clipPath></defs></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M512 0V512H0.00030365L0.015625 0H512Z" fill="var(--flag-palette-light-blue, #338af3)"/>
+<path d="M0 512L-4.47605e-05 4.47605e-05L512 0L0 512Z" fill="var(--flag-palette-green, #6da544)"/>
+<path d="M512 112V0H400L0 400V512H112L512 112Z" fill="var(--flag-palette-yellow, #ffda44)"/>
+<path d="M0 448V512H64L512 64V0H448L0 448Z" fill="var(--flag-palette-black, #333333)"/>
+<path d="M512 512L4.47605e-05 512L6.50425e-05 16.0004L176 192L192 192L224 224L224 288L288 288L512 512Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M144 320L2.51777e-05 320L6.29438e-06 464L144 320Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M6.08462e-05 48.0004L144 192L4.19629e-05 192L6.08462e-05 48.0004Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M192 368L48.0005 512L192 512L192 368Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M320 512L464 512L320 368L320 512Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M288 288L224 224L3.77666e-05 224L2.9374e-05 288L224 288L224 512L288 512L288 288Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M32.0005 512L192 352L192 320L0.000535073 512L32.0005 512Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M6.29443e-05 32.0005L160 192L192 192L6.71406e-05 0.000457764L6.29443e-05 32.0005Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+</svg>

@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="#EEE" d="M512 128v256H0V128z"/><path fill="var(--flag-palette-light-blue, #338af3)" d="M512 368v144H0V368zm0-368v144H0V0z"/><path fill="var(--flag-palette-dark-yellow, #ffc635)" d="m332.5 256-31.2 14.7 16.6 30.3-34-6.5-4.3 34.3-23.6-25.2-23.6 25.2-4.3-34.3-34 6.5 16.6-30.3-31.2-14.7 31.3-14.7L194 211l34 6.5 4.3-34.3 23.6 25.2 23.6-25.2 4.3 34.3 34-6.5-16.6 30.3z"/></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M512 128V384H0L1.11901e-05 128L512 128Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M512 368V512L0 512L6.29444e-06 368L512 368Z" fill="var(--flag-palette-light-blue, #338af3)"/>
+<path d="M512 2.23802e-05V144L0 144L6.29444e-06 0L512 2.23802e-05Z" fill="var(--flag-palette-light-blue, #338af3)"/>
+<path d="M332.515 256L301.25 270.707L317.899 300.986L283.949 294.491L279.647 328.787L256 303.563L232.352 328.787L228.051 294.491L194.101 300.985L210.749 270.706L179.485 256L210.75 241.293L194.101 211.015L228.05 217.509L232.353 183.213L256 208.437L279.648 183.213L283.949 217.509L317.9 211.015L301.251 241.294L332.515 256Z" fill="var(--flag-palette-dark-yellow, #ffc635)"/>
+</svg>

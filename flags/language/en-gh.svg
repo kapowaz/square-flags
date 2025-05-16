@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><g clip-path="url(#a)"><path fill="var(--flag-palette-yellow, #ffda44)" d="M384 136h512v240H384z"/><path fill="var(--flag-palette-dark-green, #496e2d)" d="M384 344h512v168H384z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M384 0h512v168H384z"/><path fill="var(--flag-palette-yellow, #ffda44)" d="M-128 136h512v240h-512z"/><path fill="var(--flag-palette-dark-green, #496e2d)" d="M-128 344h512v168h-512z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M-128 0h512v168h-512z"/><path fill="#333" d="m128 167 22.1 68h71.5l-57.8 42 22 68-57.8-42-57.9 42 22.1-68-57.8-42h71.5z"/><path fill="#EEE" d="M512 0v512H16l176-176v-16l32-32h64v-64z"/><path fill="var(--flag-palette-blue, #0052b4)" d="M320 368v144h144zM48 512l144-144v144zm320-192 144 144V320zm144-128V48L368 192z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="m288 224-64 64v224h64V288h224v-64z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M512 480 352 320h-32l192 192zM32 512l160-160v-32L0 512z"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h512v512H0z"/></clipPath></defs></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_53_7747)">
+<rect x="384" y="136" width="512" height="240" fill="var(--flag-palette-yellow, #ffda44)"/>
+<rect x="384" y="344" width="512" height="168" fill="var(--flag-palette-dark-green, #496e2d)"/>
+<rect x="384" width="512" height="168" fill="var(--flag-palette-bright-red, #d80027)"/>
+<rect x="-128" y="136" width="512" height="240" fill="var(--flag-palette-yellow, #ffda44)"/>
+<rect x="-128" y="344" width="512" height="168" fill="var(--flag-palette-dark-green, #496e2d)"/>
+<rect x="-128" width="512" height="168" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M127.998 166.957L150.098 234.977L221.626 234.977L163.763 277.02L185.863 345.043L127.998 303.003L70.133 345.043L92.237 277.02L34.374 234.977H105.898L127.998 166.957Z" fill="var(--flag-palette-black, #333333)"/>
+<path d="M512 0L512 512L16.0005 512L192.001 336L192.001 320L224.001 288L288.001 288L288.001 224L512 0Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M320.001 368L320.001 512L464 512L320.001 368Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M48.0005 512L192.001 368L192.001 512L48.0005 512Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M368.001 320L512 464L512 320L368.001 320Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M512 192L512 48.0005L368.001 192L512 192Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M288.001 224L224.001 288L224.001 512L288.001 512L288.001 288L512 288L512 224L288.001 224Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M512 480L352.001 320L320.001 320L512 512L512 480Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M32.0005 512L192.001 352L192.001 320L0.000518799 512L32.0005 512Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+</g>
+<defs>
+<clipPath id="clip0_53_7747">
+<rect width="512" height="512" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-dark-red, #a2001d)" d="M0 204.9h512V512H0z"/><path fill="var(--flag-palette-blue, #0052b4)" d="M0 0h512v256H0z"/><path fill="#EEE" d="m352 328-96-12-96 12V184h192z"/><path fill="var(--flag-palette-blue, #0052b4)" d="M256 316a48 48 0 1 0 0-96 48 48 0 0 0 0 96"/><path fill="var(--flag-palette-dark-red, #a2001d)" d="M256 292a24 24 0 1 0 0-48 24 24 0 0 0 0 48"/><path fill="#EEE" d="M222 234a48 48 0 0 1 68 0l-34 34z"/><path fill="var(--flag-palette-dark-green, #496e2d)" d="M220 208h72l-36 36z"/><path fill="var(--flag-palette-dark-yellow, #ffc635)" d="M244 232h24v72h-24z"/><path fill="var(--flag-palette-dark-green, #496e2d)" d="M295 296h-78l-57 32h192z"/></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="204.863" width="512" height="307.137" fill="var(--flag-palette-dark-red, #a2001d)"/>
+<rect width="512" height="256" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M352 328.001L256 316L160 328.001V183.999H352V328.001Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M256.001 315.999C282.511 315.999 304.001 294.509 304.001 267.999C304.001 241.489 282.511 219.998 256.001 219.998C229.491 219.998 208 241.489 208 267.999C208 294.509 229.491 315.999 256.001 315.999Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M255.999 292C269.254 292 280 281.254 280 267.999C280 254.744 269.254 243.999 255.999 243.999C242.744 243.999 231.999 254.744 231.999 267.999C231.999 281.254 242.744 292 255.999 292Z" fill="var(--flag-palette-dark-red, #a2001d)"/>
+<path d="M222.059 234.059C231.061 225.057 243.27 220 256 220C268.73 220 280.939 225.057 289.941 234.059L256 268L222.059 234.059Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M220.001 207.999H292.001L256.001 244L220.001 207.999Z" fill="var(--flag-palette-dark-green, #496e2d)"/>
+<path d="M244.002 232H268.002V304.001H244.002V232Z" fill="var(--flag-palette-dark-yellow, #ffc635)"/>
+<path d="M294.999 296H217.002L160 328H352L294.999 296Z" fill="var(--flag-palette-dark-green, #496e2d)"/>
+</svg>

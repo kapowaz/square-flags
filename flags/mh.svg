@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-blue, #0052b4)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-gold, #ff9811)" fill-rule="evenodd" d="M512 160V0L0 504v8z" clip-rule="evenodd"/><path fill="#EEE" fill-rule="evenodd" d="M0 512v-4l512-380v128z" clip-rule="evenodd"/><path fill="#EEE" d="m160 40 10.4 81.4L200 90.7l-11.7 41 41-11.7-30.7 29.6L280 160l-81.4 10.4 30.7 29.6-41-11.7 11.7 41-29.6-30.7L160 280l-10.4-81.4-29.6 30.7 11.7-41-41 11.7 30.7-29.6L40 160l81.4-10.4L90.7 120l41 11.7-11.7-41 29.6 30.7z"/></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" fill="var(--flag-palette-blue, #0052b4)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M512 160L512 0H511.999L0 503.997V511.998L512 160Z" fill="var(--flag-palette-gold, #ff9811)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 511.998V508.061L5.58821e-05 508L512 128L512 256L0 511.998Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M160 40L170.353 121.363L200 90.718L188.284 131.716L229.282 120L198.637 149.647L280 160L198.637 170.353L229.282 200L188.284 188.284L200 229.282L170.353 198.637L160 280L149.647 198.637L120 229.282L131.716 188.284L90.718 200L121.363 170.353L40 160L121.363 149.647L90.718 120L131.716 131.716L120 90.718L149.647 121.363L160 40Z" fill="var(--flag-palette-white, #eeeeee)"/>
+</svg>

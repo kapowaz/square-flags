@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><g clip-path="url(#a)"><path fill="var(--flag-palette-light-blue, #338af3)" d="M0 0h512v512H0z"/><path fill="#EEE" d="m256.3 73-27 158h-64l32 55-124 104 151-55 32 55 32-55 151 55-124-103 32-55h-64z"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h512v512H0z"/></clipPath></defs></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" fill="var(--flag-palette-light-blue, #338af3)"/>
+<path d="M256 73.0039L229 231.004H165L197 286.004L73 390.004L224 335.004L256 390.004L288 335.004L439 390.004L315 287.004L347 232.004H283L256 73.0039Z" fill="var(--flag-palette-white, #eeeeee)"/>
+</svg>

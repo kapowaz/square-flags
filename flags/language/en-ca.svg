@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><g clip-path="url(#a)"><path fill="#EEE" d="M384 512H128V0h256z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M144 512H0V0h144zm368 0H368V0h144zM300.5 289.4 345 267l-22.2-11v-22.3L278.3 256l22.2-44.5h-22.2L256 178l-22.3 33.4h-22.2l22.2 44.5-44.5-22.3V256L167 267.1l44.5 22.3-11.2 22.3H245V345h22v-33.3h44.6z"/><path fill="#EEE" d="M384 368H128v-512h256z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M144 368H0v-512h144zm368 0H368v-512h144zM300.5 145.4 345 123l-22.2-11V89.7L278.3 112l22.2-44.5h-22.2L256 34l-22.3 33.4h-22.2l22.2 44.5-44.5-22.3V112L167 123.1l44.5 22.3-11.2 22.3H245V201h22v-33.3h44.6z"/><path fill="#EEE" d="M512 0v512H16l176-176v-16l32-32h64v-64z"/><path fill="var(--flag-palette-blue, #0052b4)" d="M320 368v144h144zM48 512l144-144v144zm320-192 144 144V320zm144-128V48L368 192z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="m288 224-64 64v224h64V288h224v-64z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M512 480 352 320h-32l192 192zM32 512l160-160v-32L0 512z"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h512v512H0z"/></clipPath></defs></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_53_7665)">
+<path d="M384 512L128 512L128 -2.64489e-05L384 -4.06867e-06L384 512Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M144 512L-3.7639e-05 512L0 -5.97002e-05L144 -4.71113e-05L144 512Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M512 512L368 512L368 3.94819e-05L512 5.20708e-05L512 512Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M300.522 289.391L345.043 267.13L322.783 256V233.739L278.261 256L300.522 211.478H278.261L256 178.087L233.739 211.478H211.478L233.739 256L189.217 233.739V256L166.957 267.13L211.478 289.391L200.348 311.652H244.87V345.043H267.13V311.652H311.652L300.522 289.391Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M384 368L128 368L128 -144L384 -144L384 368Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M144 368L-5.28978e-05 368L0 -144L144 -144L144 368Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M512 368L368 368L368 -144L512 -144L512 368Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M300.522 145.391L345.043 123.13L322.783 112V89.739L278.261 112L300.522 67.478H278.261L256 34.087L233.739 67.478H211.478L233.739 112L189.217 89.739V112L166.957 123.13L211.478 145.391L200.348 167.652H244.87V201.043H267.13V167.652L311.652 167.652L300.522 145.391Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M512 -6.10352e-05L512 512L16.0005 512L192.001 336L192.001 320L224.001 288L288.001 288L288.001 224L512 -6.10352e-05Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M320.001 368L320.001 512L464 512L320.001 368Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M48.0005 512L192.001 368L192.001 512L48.0005 512Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M368.001 320L512 463.999L512 320L368.001 320Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M512 192L512 48.0005L368.001 192L512 192Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M288.001 224L224.001 288L224.001 512L288.001 512L288.001 288L512 288L512 224L288.001 224Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M512 479.999L352.001 320L320.001 320L512 511.999L512 479.999Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M32.0005 512L192.001 352L192.001 320L0.000518799 512L32.0005 512Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+</g>
+<defs>
+<clipPath id="clip0_53_7665">
+<rect width="512" height="512" fill="white"/>
+</clipPath>
+</defs>
+</svg>

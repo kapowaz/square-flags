@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-blue, #0052b4)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-dark-red, #a2001d)" fill-rule="evenodd" d="M512 0H0v44.5h512zm0 467.5H0V512h512z" clip-rule="evenodd"/><path fill="#EEE" d="M256 378.4a122.4 122.4 0 1 0 0-244.8 122.4 122.4 0 0 0 0 244.8"/><path fill="var(--flag-palette-green, #6da544)" d="M256 356.2a100.2 100.2 0 1 0 0-200.4 100.2 100.2 0 0 0 0 200.4"/><path fill="#EEE" d="M256 322.8a66.8 66.8 0 1 0 0-133.6 66.8 66.8 0 0 0 0 133.6"/><path fill="var(--flag-palette-blue, #0052b4)" d="M256 239.3 219.8 256v27.8l36.2 22.3 36.2-22.3V256z"/><path fill="var(--flag-palette-dark-yellow, #ffc635)" d="M219.8 222.6h72.4V256h-72.4z"/></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" fill="var(--flag-palette-blue, #0052b4)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M512 0H0V44.5219H512V0ZM512 467.478H0V512H512V467.478Z" fill="var(--flag-palette-dark-red, #a2001d)"/>
+<path d="M255.999 378.435C323.618 378.435 378.434 323.619 378.434 256C378.434 188.381 323.618 133.565 255.999 133.565C188.38 133.565 133.564 188.381 133.564 256C133.564 323.619 188.38 378.435 255.999 378.435Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M256 356.174C311.325 356.174 356.174 311.324 356.174 256C356.174 200.675 311.325 155.826 256 155.826C200.676 155.826 155.826 200.675 155.826 256C155.826 311.324 200.676 356.174 256 356.174Z" fill="var(--flag-palette-green, #6da544)"/>
+<path d="M256 322.783C292.883 322.783 322.783 292.884 322.783 256C322.783 219.117 292.883 189.217 256 189.217C219.117 189.217 189.217 219.117 189.217 256C189.217 292.884 219.117 322.783 256 322.783Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M256 239.304L219.826 256V283.826L256 306.087L292.174 283.826V256L256 239.304Z" fill="var(--flag-palette-blue, #0052b4)"/>
+<path d="M219.826 222.609H292.174V256H219.826V222.609Z" fill="var(--flag-palette-dark-yellow, #ffc635)"/>
+</svg>

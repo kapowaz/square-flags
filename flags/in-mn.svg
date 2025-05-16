@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><g clip-path="url(#a)"><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 0h512v73L256 96 0 73z"/><path fill="#EEE" d="M0 73h512v73l-256 23L0 146z"/><path fill="#333" d="M0 146h512v73l-256 23L0 219z"/><path fill="var(--flag-palette-yellow, #ffda44)" d="M0 219h512v74l-256 22L0 293z"/><path fill="var(--flag-palette-purple, #4a1f63)" d="M0 293h512v73l-256 23L0 366z"/><path fill="var(--flag-palette-light-blue, #338af3)" d="M0 366h512v73l-256 23L0 439z"/><path fill="var(--flag-palette-green, #6da544)" d="M0 439h512v73H0z"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h512v512H0z"/></clipPath></defs></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0H512V73L256 96L0 73V0Z" fill="var(--flag-palette-bright-red, #d80027)"/>
+<path d="M0 73H512V146L256 169L0 146V73Z" fill="var(--flag-palette-white, #eeeeee)"/>
+<path d="M0 146H512V219L256 242L0 219V146Z" fill="var(--flag-palette-black, #333333)"/>
+<path d="M0 219H512V293L256 315L0 293V219Z" fill="var(--flag-palette-yellow, #ffda44)"/>
+<path d="M0 293H512V366L256 389L0 366V293Z" fill="var(--flag-palette-purple, #4a1f63)"/>
+<path d="M0 366H512V439L256 462L0 439V366Z" fill="var(--flag-palette-light-blue, #338af3)"/>
+<path d="M0 439H512V512H0V439Z" fill="var(--flag-palette-green, #6da544)"/>
+</svg>

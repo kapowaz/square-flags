@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-light-blue, #338af3)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-yellow, #ffda44)" d="M208 368a112 112 0 1 0 0-224 112 112 0 0 0 0 224"/></svg>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" fill="var(--flag-palette-light-blue, #338af3)"/>
+<path d="M208 368C269.856 368 320 317.856 320 256C320 194.144 269.856 144 208 144C146.144 144 96 194.144 96 256C96 317.856 146.144 368 208 368Z" fill="var(--flag-palette-yellow, #ffda44)"/>
+</svg>
