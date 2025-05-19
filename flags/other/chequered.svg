@@ -1,1 +1,1 @@
-checkered.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-white, #eeeeee)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-black, #333333)" d="M384 0h128v128H0v128h512v128H0v128h128V0h128v512h128z"/></svg>

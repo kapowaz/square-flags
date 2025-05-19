@@ -1,1 +1,1 @@
-../dk.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-white, #eeeeee)" d="M512 288v-64H192V0h-64v224H0v64h128v224h64V288z"/></svg>
