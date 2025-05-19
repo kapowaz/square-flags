@@ -1,1 +1,1 @@
-../it.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-white, #eeeeee)" d="M136 512V0h240v512z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M344 512V0h168v512z"/><path fill="var(--flag-palette-green, #6da544)" d="M0 512V0h168v512z"/></svg>

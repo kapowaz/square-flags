@@ -1,1 +1,1 @@
-../es-ct.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-yellow, #ffda44)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 57h512v57H0zm0 114h512v57H0zm0 114h512v56H0zm0 113h512v57H0z"/></svg>

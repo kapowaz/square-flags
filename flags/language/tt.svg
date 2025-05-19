@@ -1,1 +1,1 @@
-../ru-ta.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-white, #eeeeee)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-dark-green, #496e2d)" d="M0 0h512v224H0z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 288h512v224H0z"/></svg>
