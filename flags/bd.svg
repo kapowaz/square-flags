@@ -1,4 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="512" height="512" fill="var(--flag-palette-dark-green, #496e2d)"/>
-<path d="M240 368C301.856 368 352 317.856 352 256C352 194.144 301.856 144 240 144C178.144 144 128 194.144 128 256C128 317.856 178.144 368 240 368Z" fill="var(--flag-palette-bright-red, #d80027)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-dark-green, #496e2d)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M240 368a112 112 0 1 0 0-224 112 112 0 0 0 0 224"/></svg>

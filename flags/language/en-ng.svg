@@ -1,13 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="136" y="512" width="512" height="240" transform="rotate(-90 136 512)" fill="var(--flag-palette-white, #eeeeee)"/>
-<rect x="344" y="512" width="512" height="168" transform="rotate(-90 344 512)" fill="var(--flag-palette-dark-green, #496e2d)"/>
-<rect y="512" width="512" height="168" transform="rotate(-90 0 512)" fill="var(--flag-palette-dark-green, #496e2d)"/>
-<path d="M512 0L512 512L16.0005 512L192.001 336L192.001 320L224.001 288L288.001 288L288.001 224L512 0Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M320.001 368L320.001 512L464 512L320.001 368Z" fill="var(--flag-palette-blue, #0052b4)"/>
-<path d="M48.0005 512L192.001 368L192.001 512L48.0005 512Z" fill="var(--flag-palette-blue, #0052b4)"/>
-<path d="M368.001 320L512 464L512 320L368.001 320Z" fill="var(--flag-palette-blue, #0052b4)"/>
-<path d="M512 192L512 48.0005L368.001 192L512 192Z" fill="var(--flag-palette-blue, #0052b4)"/>
-<path d="M288.001 224L224.001 288L224.001 512L288.001 512L288.001 288L512 288L512 224L288.001 224Z" fill="var(--flag-palette-bright-red, #d80027)"/>
-<path d="M512 480L352.001 320L320.001 320L512 512L512 480Z" fill="var(--flag-palette-bright-red, #d80027)"/>
-<path d="M32.0005 512L192.001 352L192.001 320L0.000518799 512L32.0005 512Z" fill="var(--flag-palette-bright-red, #d80027)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-white, #eeeeee)" d="M136 512V0h240v512z"/><path fill="var(--flag-palette-dark-green, #496e2d)" d="M344 512V0h168v512zM0 512V0h168v512z"/><path fill="var(--flag-palette-white, #eeeeee)" d="M512 0v512H16l176-176v-16l32-32h64v-64z"/><path fill="var(--flag-palette-blue, #0052b4)" d="M320 368v144h144zM48 512l144-144v144zm320-192 144 144V320zm144-128V48L368 192z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="m288 224-64 64v224h64V288h224v-64z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M512 480 352 320h-32l192 192zM32 512l160-160v-32L0 512z"/></svg>

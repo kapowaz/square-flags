@@ -1,9 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="512" height="512" fill="var(--flag-palette-blue, #0052b4)"/>
-<path d="M256 416C344.366 416 416 344.366 416 256C416 167.634 344.366 96 256 96C167.634 96 96 167.634 96 256C96 344.366 167.634 416 256 416Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M357.8 357.8C330.797 384.791 294.18 399.953 256 399.953C217.82 399.953 181.204 384.791 154.2 357.8L256 256L357.8 357.8ZM154.2 154.2C181.204 127.209 217.82 112.047 256 112.047C294.18 112.047 330.797 127.209 357.8 154.2L256 256L154.2 154.2Z" fill="var(--flag-palette-dark-yellow, #ffc635)"/>
-<path d="M376 248H352V224H336V248H312V264H336V288H352V264H376V248ZM168 256L176 224H160L168 256ZM168 256L200 264V248L168 256ZM168 256L160 288H176L168 256ZM168 256L136 248V264L168 256Z" fill="var(--flag-palette-black, #333333)"/>
-<path d="M248 192H264V216H248V192Z" fill="var(--flag-palette-green, #6da544)"/>
-<path d="M256 120L224 200H288L256 120Z" fill="var(--flag-palette-dark-green, #496e2d)"/>
-<path d="M280 384L232 368V344H280V384ZM232 336C227.757 336 223.687 334.314 220.686 331.314C217.686 328.313 216 324.243 216 320H296C296 324.243 294.314 328.313 291.314 331.314C288.313 334.314 284.243 336 280 336" fill="var(--flag-palette-light-blue, #338af3)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-blue, #0052b4)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-white, #eeeeee)" d="M256 416a160 160 0 1 0 0-320 160 160 0 0 0 0 320"/><path fill="var(--flag-palette-dark-yellow, #ffc635)" d="M357.8 357.8a144 144 0 0 1-203.6 0L256 256zM154.2 154.2a144 144 0 0 1 203.6 0L256 256z"/><path fill="var(--flag-palette-black, #333333)" d="M376 248h-24v-24h-16v24h-24v16h24v24h16v-24h24zm-208 8 8-32h-16zm0 0 32 8v-16zm0 0-8 32h16zm0 0-32-8v16z"/><path fill="var(--flag-palette-green, #6da544)" d="M248 192h16v24h-16z"/><path fill="var(--flag-palette-dark-green, #496e2d)" d="m256 120-32 80h64z"/><path fill="var(--flag-palette-light-blue, #338af3)" d="m280 384-48-16v-24h48zm-48-48a16 16 0 0 1-16-16h80a16 16 0 0 1-16 16"/></svg>

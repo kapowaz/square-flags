@@ -1,8 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 128L256 96L512 128V384L256 416L0 384V128Z" fill="var(--flag-palette-blue, #0052b4)"/>
-<path d="M0 96L256 64L512 96V128H0V96Z" fill="var(--flag-palette-black, #333333)"/>
-<path d="M0 0H512V96H0V0Z" fill="var(--flag-palette-dark-green, #496e2d)"/>
-<path d="M0 416L256 448L512 416V384H0V416Z" fill="var(--flag-palette-black, #333333)"/>
-<path d="M0 512H512V416H0V512Z" fill="var(--flag-palette-dark-green, #496e2d)"/>
-<path d="M245 144C139 176 144 256 178 330L138 368L211 341V243C235 208 277 208 301 243V341L374 368L334 330C368 256 373 176 267 144L256 190L245 144ZM256 227L247 254H219L242 271L233 299L256 282L279 299L270 271L294 254H265L256 227Z" fill="var(--flag-palette-white, #eeeeee)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-blue, #0052b4)" d="m0 128 256-32 256 32v256l-256 32L0 384z"/><path fill="var(--flag-palette-black, #333333)" d="m0 96 256-32 256 32v32H0z"/><path fill="var(--flag-palette-dark-green, #496e2d)" d="M0 0h512v96H0z"/><path fill="var(--flag-palette-black, #333333)" d="m0 416 256 32 256-32v-32H0z"/><path fill="var(--flag-palette-dark-green, #496e2d)" d="M0 512h512v-96H0z"/><path fill="var(--flag-palette-white, #eeeeee)" d="M245 144c-106 32-101 112-67 186l-40 38 73-27v-98c24-35 66-35 90 0v98l73 27-40-38c34-74 39-154-67-186l-11 46zm11 83-9 27h-28l23 17-9 28 23-17 23 17-9-28 24-17h-29z"/></svg>

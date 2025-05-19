@@ -1,7 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 0V512L256 256L0 0Z" fill="var(--flag-palette-black, #333333)"/>
-<path d="M512 0L0 -2.23802e-05L256 256L512 0Z" fill="var(--flag-palette-green, #6da544)"/>
-<path d="M512 512L512 0L256 256L512 512Z" fill="var(--flag-palette-black, #333333)"/>
-<path d="M0 512L512 512L256 256L0 512Z" fill="var(--flag-palette-green, #6da544)"/>
-<path d="M464 512H512V464L304 256L512 48V0H464L256 208L48 0H0V48L208 256L0 464V512H48L256 304L464 512Z" fill="var(--flag-palette-yellow, #ffda44)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-black, #333333)" d="M0 0v512l256-256z"/><path fill="var(--flag-palette-green, #6da544)" d="M512 0H0l256 256z"/><path fill="var(--flag-palette-black, #333333)" d="M512 512V0L256 256z"/><path fill="var(--flag-palette-green, #6da544)" d="M0 512h512L256 256z"/><path fill="var(--flag-palette-yellow, #ffda44)" d="M464 512h48v-48L304 256 512 48V0h-48L256 208 48 0H0v48l208 208L0 464v48h48l208-208z"/></svg>

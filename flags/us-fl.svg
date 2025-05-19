@@ -1,6 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="512" height="512" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M464 512H512V464L304 256L512 48V0H464L256 208L48 0H0V48L208 256L0 464V512H48L256 304L464 512Z" fill="var(--flag-palette-bright-red, #d80027)"/>
-<path d="M256 352C309.019 352 352 309.019 352 256C352 202.981 309.019 160 256 160C202.981 160 160 202.981 160 256C160 309.019 202.981 352 256 352Z" fill="var(--flag-palette-dark-yellow, #ffc635)"/>
-<path d="M256 320C291.346 320 320 291.346 320 256C320 220.654 291.346 192 256 192C220.654 192 192 220.654 192 256C192 291.346 220.654 320 256 320Z" fill="var(--flag-palette-green, #6da544)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-white, #eeeeee)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M464 512h48v-48L304 256 512 48V0h-48L256 208 48 0H0v48l208 208L0 464v48h48l208-208z"/><path fill="var(--flag-palette-dark-yellow, #ffc635)" d="M256 352a96 96 0 1 0 0-192 96 96 0 0 0 0 192"/><path fill="var(--flag-palette-green, #6da544)" d="M256 320a64 64 0 1 0 0-128 64 64 0 0 0 0 128"/></svg>

@@ -66,11 +66,11 @@ package is in the works.
 
 ### NPM
 
-If you want to install this package as a dependency, you can install it from
-this GitHub repository:
+If you want to install this package as a dependency, you can add it to your
+project with:
 
 ```sh
-npm install --save https://github.com/kapowaz/square-flags
+npm install --save @kapowaz/square-flags
 ```
 
 ### The color palette
@@ -128,7 +128,9 @@ shown here):
 
 Note that this only works when the flags are injected as SVG elements directly
 into the same page as your custom CSS properties; if you are including flags as
-images using an `<img>` tag they will retain the default palette.
+images using an `<img>` tag they will retain the default palette. If for any
+reason you need a version of these SVG files _without_ the CSS custom
+properties, you can find the equivalent flags under `flags-original/`.
 
 ## Contributing
 
@@ -138,20 +140,16 @@ contribution, create a copy of that library and add your changes as a component,
 then create a pull request including the exported SVG file and a link to your
 copy of the Figma file, so that the original can be updated.
 
-You will also need to ensure you have have the latest version of [svgo][svgo]
-installed; when exporting SVG files, run `svgo` on the `flags/` directory:
+You should export two copies of your new/updated flag design: one to `flags/`,
+and one to `flags-original/`, then run the scripts to optimise the SVG assets,
+and update any explicit hexadecimal colour codes to their named CSS Custom
+Property values (you should run `yarn svgo` last, to ensure the optimal SVG
+output):
 
 ```sh
-svgo ./flags --recursive --config=svgo.config.js
-$ svgo ./flags --recursive --config=svgo.config.js
-```
-
-Once you have optimised the SVG files, you should also ensure that you run the
-`css-vars` script within the package. This will update any explicit hexadecimal
-colour codes to their named CSS Custom Property values.
-
-```sh
-$ yarn && yarn css-vars
+$ yarn
+$ yarn css-vars
+$ yarn svgo
 ```
 
 Then commit the changes, and submit them as a pull request.

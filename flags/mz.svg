@@ -1,10 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect y="136" width="512" height="240" fill="var(--flag-palette-black, #333333)"/>
-<rect y="344" width="512" height="168" fill="var(--flag-palette-yellow, #ffda44)"/>
-<rect width="512" height="168" fill="var(--flag-palette-dark-green, #496e2d)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M512 160L2.79753e-06 160L0 192L512 192V160ZM0.00012207 352L512 352V320L0.000124868 320L0.00012207 352Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M0 0V512L256 256L0 0Z" fill="var(--flag-palette-dark-red, #a2001d)"/>
-<path d="M92.8751 182.081L109.471 233.159L163.177 233.159L119.728 264.726L136.324 315.804L92.8751 284.236L49.426 315.804L66.0221 264.726L22.573 233.159H76.279L92.8751 182.081Z" fill="var(--flag-palette-yellow, #ffda44)"/>
-<path d="M44.3711 248.864H141.395V293.386H44.3711V248.864Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M159.764 197.823L144.023 182.081L92.8753 233.229L41.7273 182.081L25.9863 197.823L77.1793 248.925L25.9863 300.119L41.7273 315.647L92.8753 264.591L144.023 315.647L159.764 300.119L108.571 248.925L159.764 197.823Z" fill="var(--flag-palette-black, #333333)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-black, #333333)" d="M0 136h512v240H0z"/><path fill="var(--flag-palette-yellow, #ffda44)" d="M0 344h512v168H0z"/><path fill="var(--flag-palette-dark-green, #496e2d)" d="M0 0h512v168H0z"/><path fill="var(--flag-palette-white, #eeeeee)" fill-rule="evenodd" d="M512 160H0v32h512zM0 352h512v-32H0z" clip-rule="evenodd"/><path fill="var(--flag-palette-dark-red, #a2001d)" d="M0 0v512l256-256z"/><path fill="var(--flag-palette-yellow, #ffda44)" d="m92.9 182 16.6 51.2h53.7l-43.5 31.5 16.6 51.1L93 284.2l-43.5 31.6 16.6-51-43.4-31.6h53.7z"/><path fill="var(--flag-palette-white, #eeeeee)" d="M44.4 248.9h97v44.5h-97z"/><path fill="var(--flag-palette-black, #333333)" d="M159.8 197.8 144 182.1l-51 51.1-51.2-51.1L26 197.8 77.2 249 26 300.1l15.7 15.5 51.2-51 51.1 51 15.8-15.5-51.2-51.2z"/></svg>

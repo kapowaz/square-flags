@@ -1,10 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M228 0L260 211L228 422H196L164 211L196 0H228Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M196 0V450H0V0H196Z" fill="var(--flag-palette-dark-green, #496e2d)"/>
-<path d="M178 87L147 73L98 185L49 73L18 87L80 225L18 363L49 377L98 265L147 377L178 363L116 225L178 87Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M98 80L81 96L65 224L81 354L98 370L115 354L130 223L115 96L98 80Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M154 148L144 224L154 302C167.783 278.631 175.356 252.123 176 225C176 197 166 171 154 148ZM42 148L51 222L42 302C28.2173 278.631 20.6438 252.123 20 225C20 197 30 171 42 148Z" fill="var(--flag-palette-black, #333333)"/>
-<path d="M42 148V302C52.8503 320.846 65.9459 338.307 81 354V96C70 108 55 126 42 148ZM154 148C143.15 129.154 130.054 111.693 115 96V354C126 342 141 324 154 302V148Z" fill="var(--flag-palette-dark-red, #a2001d)"/>
-<path d="M512 0V422H228V0H512Z" fill="var(--flag-palette-bright-red, #d80027)"/>
-<path d="M0 450L86 433L161 441L216 390L257 408L363 352L512 422V512H0V450Z" fill="var(--flag-palette-black, #333333)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-white, #eeeeee)" d="m228 0 32 211-32 211h-32l-32-211L196 0z"/><path fill="var(--flag-palette-dark-green, #496e2d)" d="M196 0v450H0V0z"/><path fill="var(--flag-palette-white, #eeeeee)" d="m178 87-31-14-49 112L49 73 18 87l62 138-62 138 31 14 49-112 49 112 31-14-62-138z"/><path fill="var(--flag-palette-white, #eeeeee)" d="M98 80 81 96 65 224l16 130 17 16 17-16 15-131-15-127z"/><path fill="var(--flag-palette-black, #333333)" d="m154 148-10 76 10 78a159 159 0 0 0 22-77c0-28-10-54-22-77m-112 0 9 74-9 80a159 159 0 0 1-22-77c0-28 10-54 22-77"/><path fill="var(--flag-palette-dark-red, #a2001d)" d="M42 148v154a269 269 0 0 0 39 52V96c-11 12-26 30-39 52m112 0a269 269 0 0 0-39-52v258c11-12 26-30 39-52z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M512 0v422H228V0z"/><path fill="var(--flag-palette-black, #333333)" d="m0 450 86-17 75 8 55-51 41 18 106-56 149 70v90H0z"/></svg>

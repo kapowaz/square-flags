@@ -1,7 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect y="136" width="512" height="240" fill="var(--flag-palette-white, #eeeeee)"/>
-<rect y="344" width="512" height="168" fill="var(--flag-palette-bright-red, #d80027)"/>
-<rect width="512" height="168" fill="var(--flag-palette-dark-green, #496e2d)"/>
-<path d="M0 0V512L256 256L0 0Z" fill="var(--flag-palette-light-blue, #338af3)"/>
-<path d="M196.896 256L128.871 278.103L128.871 349.629L86.8283 291.763L18.8024 313.866L60.8447 256L18.8024 198.133L86.8283 220.236L128.871 162.37L128.871 233.897L196.896 256Z" fill="var(--flag-palette-white, #eeeeee)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-white, #eeeeee)" d="M0 136h512v240H0z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 344h512v168H0z"/><path fill="var(--flag-palette-dark-green, #496e2d)" d="M0 0h512v168H0z"/><path fill="var(--flag-palette-light-blue, #338af3)" d="M0 0v512l256-256z"/><path fill="var(--flag-palette-white, #eeeeee)" d="m196.9 256-68 22.1v71.5l-42-57.8-68.1 22 42-57.8-42-57.9 68 22.1 42-57.8v71.5z"/></svg>

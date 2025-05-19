@@ -1,6 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="512" height="512" fill="var(--flag-palette-bright-red, #d80027)"/>
-<path d="M512 288V224H288V0H224V224H0V288H224V512H288V288H512Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M512 0H0V512H512V0ZM480 32H32V480H480V32Z" fill="var(--flag-palette-blue, #0052b4)"/>
-<path d="M432 176L400 112H112L80 176H144L124 136H244L224 176H288L268 136H388L368 176H432Z" fill="var(--flag-palette-blue, #0052b4)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-white, #eeeeee)" d="M512 288v-64H288V0h-64v224H0v64h224v224h64V288z"/><path fill="var(--flag-palette-blue, #0052b4)" fill-rule="evenodd" d="M512 0H0v512h512zm-32 32H32v448h448z" clip-rule="evenodd"/><path fill="var(--flag-palette-blue, #0052b4)" d="m432 176-32-64H112l-32 64h64l-20-40h120l-20 40h64l-20-40h120l-20 40z"/></svg>
