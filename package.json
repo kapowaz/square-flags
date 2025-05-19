@@ -1,19 +1,21 @@
 {
-  "name": "square-flags",
   "version": "1.3.2",
+  "name": "@kapowaz/square-flags",
   "description": "A collection of square SVG country flags.",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kapowaz/square-flags.git"
-  },
+  "repository": "github:kapowaz/square-flags",
   "engines": {
     "node": ">=18.18.*",
     "npm": "please-use-yarn",
     "yarn": ">= 1.22.0"
   },
   "scripts": {
+    "svgo": "svgo ./flags --recursive --config=svgo.config.js && svgo ./flags-original --recursive --config=svgo.config.js",
     "css-vars": "node scripts/updateCustomProperties.js"
   },
+  "files": [
+    "flags/**/*",
+    "flags-original/**/*"
+  ],
   "keywords": [
     "svg",
     "country-flags",
@@ -34,6 +36,11 @@
     "squares",
     "icon-pack"
   ],
+  "author": {
+    "name": "Ben Darlow",
+    "email": "ben@kapowaz.net",
+    "url": "https://www.kapowaz.net/"
+  },
   "contributors": [
     "Ben Darlow <ben@kapowaz.net>"
   ],
@@ -49,6 +56,7 @@
     "eslint": "^9",
     "jsdom": "^26.1.0",
     "prettier": "^3.5.1",
+    "svgo": "^3.3.2",
     "w3c-xmlserializer": "^5.0.0"
   }
 }
