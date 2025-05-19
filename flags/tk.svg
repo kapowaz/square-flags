@@ -1,15 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="512" height="512" fill="var(--flag-palette-blue, #0052b4)"/>
-<g clip-path="url(#clip0_1_2633)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M144.695 343.931L411.825 121.322C409.529 132.357 408.486 144.11 408.486 155.826C408.486 215.389 454.979 332.973 585.769 334.331H598.632V343.931L587.327 343.931L241.827 343.931L144.695 343.931ZM566.623 399.583H128.695L112.695 382.888L128.695 366.192H566.623L598.623 382.888L566.623 399.583Z" fill="var(--flag-palette-yellow, #ffda44)"/>
-</g>
-<path d="M188.073 133.564L193.599 150.57H211.479L197.014 161.081L202.54 178.086L188.073 167.577L173.608 178.086L179.133 161.081L164.666 150.57H182.547L188.073 133.564Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M115.439 256L122.347 277.259H144.697L126.614 290.394L133.522 311.652L115.439 298.514L97.3566 311.652L104.264 290.394L86.1816 277.259H108.532L115.439 256Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M115.439 77.9121L122.347 99.1711H144.697L126.614 112.306L133.522 133.564L115.439 120.426L97.3566 133.564L104.264 112.306L86.1816 99.1711H108.532L115.439 77.9121Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M59.7863 178.086L66.6943 199.345H89.0433L70.9613 212.48L77.8693 233.738L59.7863 220.6L41.7043 233.738L48.6113 212.48L30.5293 199.345H52.8783L59.7863 178.086Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<defs>
-<clipPath id="clip0_1_2633">
-<rect width="512" height="512" fill="white"/>
-</clipPath>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-blue, #0052b4)" d="M0 0h512v512H0z"/><g clip-path="url(#a)"><path fill="var(--flag-palette-yellow, #ffda44)" fill-rule="evenodd" d="m144.7 344 267.1-222.7c-2.3 11-3.3 22.8-3.3 34.5 0 59.6 46.5 177.2 177.3 178.5h12.8v9.6zm422 55.6h-438l-16-16.7 16-16.7h438l32 16.7z" clip-rule="evenodd"/></g><path fill="var(--flag-palette-white, #eeeeee)" d="m188 133.6 5.6 17h17.9L197 161l5.5 17-14.4-10.5-14.5 10.5 5.5-17-14.4-10.5h17.8zM115.4 256l7 21.3h22.3l-18 13 6.8 21.4-18-13.2-18.1 13.2 6.9-21.3-18.1-13.1h22.3zm0-178 7 21.2h22.3l-18 13.1 6.8 21.3-18-13.2-18.1 13.2 6.9-21.3-18.1-13.1h22.3zM59.8 178l6.9 21.3H89l-18 13.2 6.9 21.2-18.1-13.1-18.1 13.1 7-21.2-18.2-13.2H53z"/><defs><clipPath id="a"><path fill="#fff" d="M0 0h512v512H0z"/></clipPath></defs></svg>

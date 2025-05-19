@@ -1,13 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="512" height="512" fill="var(--flag-palette-blue, #0052b4)"/>
-<path d="M0 122.435V55.6523H512V122.435H0Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M0 256.001V189.218H512V256.001H0Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M0 389.565V322.782H512V389.565H0Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M0 512H512V456.348H0V512Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<rect width="256" height="256" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M128.001 48L149.608 106.393L208.001 128L149.608 149.607L128.001 208L106.394 149.607L48.001 128L106.394 106.393L128.001 48Z" fill="var(--flag-palette-dark-yellow, #ffc635)"/>
-<path d="M128 48V106.393H149.607L208 128H149.607V149.607L128 208V149.607H106.393L48 128H106.393V106.393L128 48Z" fill="var(--flag-palette-brown, #85693d)"/>
-<path d="M184.569 71.4318L158.557 128L184.569 184.569L128 158.558L71.4315 184.569L97.4427 128L71.4315 71.4318L128 97.4431L184.569 71.4318Z" fill="var(--flag-palette-dark-yellow, #ffc635)"/>
-<path d="M184.569 71.4318L143.279 112.722L158.557 128L184.569 184.569L143.279 143.279L128 158.558L71.4315 184.569L112.721 143.279L97.4427 128L71.4315 71.4318L112.721 112.722L128 97.4431L184.569 71.4318Z" fill="var(--flag-palette-brown, #85693d)"/>
-<circle cx="128" cy="128" r="40" fill="var(--flag-palette-dark-yellow, #ffc635)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-blue, #0052b4)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-white, #eeeeee)" d="M0 122.4V55.7h512v66.7zM0 256v-66.8h512V256zm0 133.6v-66.8h512v66.8zM0 512h512v-55.7H0z"/><path fill="var(--flag-palette-white, #eeeeee)" d="M0 0h256v256H0z"/><path fill="var(--flag-palette-dark-yellow, #ffc635)" d="m128 48 21.6 58.4L208 128l-58.4 21.6L128 208l-21.6-58.4L48 128l58.4-21.6z"/><path fill="var(--flag-palette-brown, #85693d)" d="M128 48v58.4h21.6L208 128h-58.4v21.6L128 208v-58.4h-21.6L48 128h58.4v-21.6z"/><path fill="var(--flag-palette-dark-yellow, #ffc635)" d="m184.6 71.4-26 56.6 26 56.6-56.6-26-56.6 26 26-56.6-26-56.6 56.6 26z"/><path fill="var(--flag-palette-brown, #85693d)" d="m184.6 71.4-41.3 41.3 15.3 15.3 26 56.6-41.3-41.3-15.3 15.3-56.6 26 41.3-41.3L97.4 128l-26-56.6 41.3 41.3L128 97.4z"/><circle cx="128" cy="128" r="40" fill="var(--flag-palette-dark-yellow, #ffc635)"/></svg>

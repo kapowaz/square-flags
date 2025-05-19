@@ -1,7 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="512" height="512" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M0 186H512V282H0V186ZM0 339H512V435H0V339Z" fill="var(--flag-palette-bright-red, #d80027)"/>
-<path d="M93 29L107.369 73.2229H153.868L116.249 100.554L130.618 144.777L93 117.446L55.3817 144.777L69.7506 100.554L32.1324 73.2229H78.6311L93 29Z" fill="var(--flag-palette-bright-red, #d80027)"/>
-<path d="M256 29L270.369 73.2229H316.868L279.249 100.554L293.618 144.777L256 117.446L218.382 144.777L232.751 100.554L195.132 73.2229H241.631L256 29Z" fill="var(--flag-palette-bright-red, #d80027)"/>
-<path d="M419 29L433.369 73.2229H479.868L442.249 100.554L456.618 144.777L419 117.446L381.382 144.777L395.751 100.554L358.132 73.2229H404.631L419 29Z" fill="var(--flag-palette-bright-red, #d80027)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-white, #eeeeee)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 186h512v96H0zm0 153h512v96H0zM93 29l14.4 44.2h46.5l-37.7 27.4 14.4 44.2L93 117.4l-37.6 27.4 14.4-44.2L32 73.2h46.5zm163 0 14.4 44.2h46.5l-37.7 27.4 14.4 44.2-37.6-27.4-37.6 27.4 14.4-44.2L195 73.2h46.5zm163 0 14.4 44.2h46.5l-37.7 27.4 14.4 44.2-37.6-27.4-37.6 27.4 14.4-44.2L358 73.2h46.5z"/></svg>

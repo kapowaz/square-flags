@@ -1,5 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="512" height="512" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M512 288V224H288V0H224V224H0V288H224V512H288V288H512Z" fill="var(--flag-palette-bright-red, #d80027)"/>
-<path d="M328.348 267.13L345.043 278.261V233.739L328.348 244.87H267.13V183.652L278.261 166.957H233.739L244.87 183.652V244.87H183.652L166.957 233.739V278.261L183.652 267.13H244.87V328.348L233.739 345.043H278.261L267.13 328.348V267.13H328.348Z" fill="var(--flag-palette-yellow, #ffda44)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-white, #eeeeee)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M512 288v-64H288V0h-64v224H0v64h224v224h64V288z"/><path fill="var(--flag-palette-yellow, #ffda44)" d="m328.3 267.1 16.7 11.2v-44.6L328.3 245h-61.2v-61.2l11.2-16.7h-44.6l11.2 16.7V245h-61.2L167 233.7v44.6l16.7-11.2h61.2v61.2L233.7 345h44.6L267 328.3v-61.2z"/></svg>

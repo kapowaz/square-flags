@@ -1,6 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect y="204.863" width="512" height="307.137" fill="var(--flag-palette-green, #6da544)"/>
-<rect width="512" height="256" fill="var(--flag-palette-light-blue, #338af3)"/>
-<path d="M0 0V512L256 256L0 0Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M106.088 182.081L122.684 233.158H176.39L132.941 264.726L149.537 315.803L106.088 284.235L62.6389 315.803L79.235 264.726L35.7859 233.158H89.4919L106.088 182.081Z" fill="var(--flag-palette-bright-red, #d80027)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-green, #6da544)" d="M0 204.9h512V512H0z"/><path fill="var(--flag-palette-light-blue, #338af3)" d="M0 0h512v256H0z"/><path fill="var(--flag-palette-white, #eeeeee)" d="M0 0v512l256-256z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="m106 182 16.7 51.2h53.7l-43.5 31.5 16.6 51.1-43.4-31.6-43.5 31.6 16.6-51-43.4-31.6h53.7z"/></svg>

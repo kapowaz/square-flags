@@ -1,5 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="376" width="512" height="240" transform="rotate(90 376 0)" fill="var(--flag-palette-white, #eeeeee)"/>
-<rect x="168" width="512" height="168" transform="rotate(90 168 0)" fill="var(--flag-palette-navy, #002266)"/>
-<rect x="512" width="512" height="168" transform="rotate(90 512 0)" fill="var(--flag-palette-bright-red, #d80027)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-white, #eeeeee)" d="M376 0v512H136V0z"/><path fill="var(--flag-palette-navy, #002266)" d="M168 0v512H0V0z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M512 0v512H344V0z"/></svg>

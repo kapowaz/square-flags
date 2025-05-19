@@ -1,5 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="512" height="512" fill="var(--flag-palette-blue, #0052b4)"/>
-<rect y="342.269" width="512" height="66.782" fill="var(--flag-palette-yellow, #ffda44)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M106.742 118.73L98.4537 93.2217L90.1677 118.73H63.3457L85.0437 134.496L76.7547 160.005L98.4537 144.239L120.154 160.005L111.866 134.496L133.565 118.73H106.742ZM189.035 180.256L175.222 137.744L161.409 180.256H116.707L152.872 206.534L139.057 249.048L175.222 222.772L211.387 249.048L197.574 206.534L233.739 180.256H189.035Z" fill="var(--flag-palette-white, #eeeeee)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-blue, #0052b4)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-yellow, #ffda44)" d="M0 342.3h512v66.8H0z"/><path fill="var(--flag-palette-white, #eeeeee)" fill-rule="evenodd" d="m106.7 118.7-8.2-25.5-8.3 25.5H63.3L85 134.5 76.8 160l21.7-15.8 21.7 15.8-8.3-25.5 21.7-15.8zm82.3 61.6-13.8-42.6-13.8 42.6h-44.7l36.2 26.2L139 249l36.1-26.2 36.2 26.2-13.8-42.5 36.1-26.2z" clip-rule="evenodd"/></svg>

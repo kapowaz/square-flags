@@ -1,4 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="512" height="512" fill="var(--flag-palette-bright-red, #d80027)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M304 96H208V207.999L96 207.999L96 303.999L208 303.999V416H304V303.999L416 303.999V207.999L304 207.999V96Z" fill="var(--flag-palette-white, #eeeeee)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-white, #eeeeee)" fill-rule="evenodd" d="M304 96h-96v112H96v96h112v112h96V304h112v-96H304z" clip-rule="evenodd"/></svg>

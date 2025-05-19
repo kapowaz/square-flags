@@ -1,5 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="512" height="512" fill="var(--flag-palette-bright-red, #d80027)"/>
-<path d="M96 95.9961H416V415.996H96V95.9961Z" fill="var(--flag-palette-dark-green, #496e2d)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M316 360.79C309.522 362.019 302.836 362.662 296 362.662C237.09 362.662 189.333 314.906 189.333 255.996C189.333 197.085 237.09 149.329 296 149.329C302.836 149.329 309.522 149.972 316 151.201C266.65 160.563 229.333 203.921 229.333 255.996C229.333 308.07 266.65 351.429 316 360.79Z" fill="var(--flag-palette-white, #eeeeee)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 0h512v512H0z"/><path fill="var(--flag-palette-dark-green, #496e2d)" d="M96 96h320v320H96z"/><path fill="var(--flag-palette-white, #eeeeee)" fill-rule="evenodd" d="M316 360.8q-9.8 1.8-20 1.9a106.7 106.7 0 1 1 20-211.5 106.7 106.7 0 0 0 0 209.6" clip-rule="evenodd"/></svg>

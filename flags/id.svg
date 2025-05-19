@@ -1,4 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="512" y="307.137" width="512" height="307.137" transform="rotate(-180 512 307.137)" fill="var(--flag-palette-dark-red, #a2001d)"/>
-<rect x="512" y="512" width="512" height="256" transform="rotate(-180 512 512)" fill="var(--flag-palette-white, #eeeeee)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-dark-red, #a2001d)" d="M512 307.2H0V0h512z"/><path fill="var(--flag-palette-white, #eeeeee)" d="M512 512H0V256h512z"/></svg>

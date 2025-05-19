@@ -1,7 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect y="136" width="512" height="240" fill="var(--flag-palette-blue, #0052b4)"/>
-<rect y="344" width="512" height="168" fill="var(--flag-palette-bright-red, #d80027)"/>
-<rect width="512" height="168" fill="var(--flag-palette-dark-green, #496e2d)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M512 160L2.79753e-06 160L0 192L512 192V160ZM0.00012207 352L512 352V320L0.000124868 320L0.00012207 352Z" fill="var(--flag-palette-white, #eeeeee)"/>
-<path d="M312 317L416 242H288L392 317L352 195L312 317ZM109 285L158 249H98L147 285L128 227L109 285ZM173 317L222 281H162L211 317L192 259L173 317ZM173 253L222 217H162L211 253L192 195L173 253Z" fill="var(--flag-palette-white, #eeeeee)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-blue, #0052b4)" d="M0 136h512v240H0z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M0 344h512v168H0z"/><path fill="var(--flag-palette-dark-green, #496e2d)" d="M0 0h512v168H0z"/><path fill="var(--flag-palette-white, #eeeeee)" fill-rule="evenodd" d="M512 160H0v32h512zM0 352h512v-32H0z" clip-rule="evenodd"/><path fill="var(--flag-palette-white, #eeeeee)" d="m312 317 104-75H288l104 75-40-122zm-203-32 49-36H98l49 36-19-58zm64 32 49-36h-60l49 36-19-58zm0-64 49-36h-60l49 36-19-58z"/></svg>

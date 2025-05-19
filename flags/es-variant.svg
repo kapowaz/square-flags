@@ -1,5 +1,1 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M512 128V384L0 384L1.11901e-05 128L512 128Z" fill="var(--flag-palette-yellow, #ffda44)"/>
-<path d="M512 368V512L0 512L6.29444e-06 368L512 368Z" fill="var(--flag-palette-bright-red, #d80027)"/>
-<path d="M512 2.23802e-05V144L0 144L6.29444e-06 0L512 2.23802e-05Z" fill="var(--flag-palette-bright-red, #d80027)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" fill="none"><path fill="var(--flag-palette-yellow, #ffda44)" d="M512 128v256H0V128z"/><path fill="var(--flag-palette-bright-red, #d80027)" d="M512 368v144H0V368zm0-368v144H0V0z"/></svg>
