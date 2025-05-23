@@ -62,7 +62,7 @@ To view all the available flags, check [the gallery][gallery].
 ### React
 
 If you're using [React](https://reactjs.org), an equivalent `react-square-flags`
-package is in the works.
+package is [available here][react-square-flags].
 
 ### NPM
 
@@ -174,3 +174,4 @@ This project is released under the [MIT license](LICENSE.md).
 [svgo]: https://github.com/svg/svgo
 [figma]: https://www.figma.com/community/file/1295802738363022628/square-flags
 [css-custom-properties]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascading_variables/Using_CSS_custom_properties
+[react-square-flags]: https://www.npmjs.com/package/react-square-flags
