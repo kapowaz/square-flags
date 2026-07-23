@@ -3,4 +3,4 @@ defaults:
   - scope:
       path: ''
     values:
-      image: /images/og-image.jpg
+      image: /images/og-image.png
